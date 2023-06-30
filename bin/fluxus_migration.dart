@@ -1,11 +1,11 @@
 import 'dart:io';
 
 import 'package:fluxus_migration/init_b4a.dart';
-import 'package:fluxus_migration/patient/patient_actions.dart';
+import 'package:fluxus_migration/shared/shared_action_01.dart';
 
 void main(List<String> arguments) async {
   // final isInitialized = await initB4AFluxus();
-  final isInitialized = await initB4AFluxus2();
+  final isInitialized = await initB4AFluxus3();
   if (!isInitialized) {
     print('B4A not conected...');
     exit(0);
@@ -15,5 +15,6 @@ void main(List<String> arguments) async {
   // expertiseFluxus1ToJson();
   // expertiseJsonToFluxus2();
   // patientFluxusToJson();
-  patientJsonToFluxus2();
+  // patientJsonToFluxus2();
+  sharedAction01();
 }

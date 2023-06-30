@@ -20,7 +20,7 @@ Future<bool> initB4AFluxus() async {
   }
 }
 
-Future<bool> initB4AFluxus2() async {
+Future<bool> initB4AFluxus3() async {
   const keyApplicationId = 'DJORW0khdQmM9ZrmDt2gKOrVfPHdYFlJkRRY51I1';
   const keyClientKey = '1a84GqtZaTHeVs1UL3UknN0qqcDmfFnwG3LxL2v6';
   // const keyApplicationId = String.fromEnvironment('ApplicationId');
