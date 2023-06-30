@@ -1,9 +1,9 @@
 import 'package:parse_server_sdk/parse_server_sdk.dart';
 
-import '../healthPlan/healthplan_entity.dart';
-import '../healthPlan/healthplan_model.dart';
-import '../region/region_entity.dart';
-import 'patient_model.dart';
+import '../../healthPlan/entity/healthplan_entity.dart';
+import '../../healthPlan/model/healthplan_model.dart';
+import '../../region/entity/region_entity.dart';
+import '../model/patient_model.dart';
 
 class PatientEntity {
   // static const String className = 'Profile';

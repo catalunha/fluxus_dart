@@ -1,7 +1,7 @@
 import 'package:freezed_annotation/freezed_annotation.dart';
 
-import '../healthPlan/healthplan_model.dart';
-import '../region/region_model.dart';
+import '../../healthPlan/model/healthplan_model.dart';
+import '../../region/model/region_model.dart';
 
 part 'patient_model.freezed.dart';
 part 'patient_model.g.dart';

@@ -1,6 +1,6 @@
 import 'package:parse_server_sdk/parse_server_sdk.dart';
 
-import '../models/expertise_model.dart';
+import '../model/expertise_model.dart';
 
 class ExpertiseEntity {
   static const String className = 'Expertise';

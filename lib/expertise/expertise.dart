@@ -1,10 +1,10 @@
 import 'dart:convert';
 import 'dart:io';
 
-import 'package:fluxus_migration/expertise/models/expertise_model.dart';
 import 'package:parse_server_sdk/parse_server_sdk.dart';
 
 import 'entity/expertise_entity.dart';
+import 'model/expertise_model.dart';
 
 void expertiseFluxus1ToJson() async {
   print('+++ teste5');

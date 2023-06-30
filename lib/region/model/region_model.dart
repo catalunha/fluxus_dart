@@ -1,7 +1,7 @@
 import 'package:freezed_annotation/freezed_annotation.dart';
 
-part 'region_model.freezed.dart';
-part 'region_model.g.dart';
+part '../region_model.freezed.dart';
+part '../region_model.g.dart';
 
 @freezed
 abstract class RegionModel with _$RegionModel {

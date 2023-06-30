@@ -3,8 +3,8 @@ import 'dart:io';
 
 import 'package:parse_server_sdk/parse_server_sdk.dart';
 
-import 'patient_entity.dart';
-import 'patient_model.dart';
+import 'entity/patient_entity.dart';
+import 'model/patient_model.dart';
 
 void patientFluxusToJson() async {
   print('+++ patientFluxusToJson');

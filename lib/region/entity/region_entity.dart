@@ -1,6 +1,6 @@
 import 'package:parse_server_sdk/parse_server_sdk.dart';
 
-import 'region_model.dart';
+import '../model/region_model.dart';
 
 class RegionEntity {
   static const String className = 'Region';

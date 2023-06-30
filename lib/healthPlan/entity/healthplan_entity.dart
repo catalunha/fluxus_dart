@@ -1,7 +1,7 @@
 import 'package:parse_server_sdk/parse_server_sdk.dart';
 
-import '../healthPlanType/healthplantype_entity.dart';
-import 'healthplan_model.dart';
+import '../../healthPlanType/healthplantype_entity.dart';
+import '../model/healthplan_model.dart';
 
 class HealthPlanEntity {
   static const String className = 'HealthPlan';

@@ -1,6 +1,6 @@
 import 'package:freezed_annotation/freezed_annotation.dart';
 
-import '../healthPlanType/healthplantype_model.dart';
+import '../../healthPlanType/healthplantype_model.dart';
 
 part 'healthplan_model.freezed.dart';
 part 'healthplan_model.g.dart';
