@@ -10,7 +10,7 @@ Future<bool> initB4AFluxus() async {
     keyApplicationId,
     keyServerUrl,
     clientKey: keyClientKey,
-    // debug: true,
+    debug: true,
   );
   ParseResponse healthCheck = (await Parse().healthCheck());
   if (healthCheck.success) {
@@ -30,7 +30,7 @@ Future<bool> initB4AFluxus3() async {
     keyApplicationId,
     keyServerUrl,
     clientKey: keyClientKey,
-    // debug: true,
+    debug: true,
   );
   ParseResponse healthCheck = (await Parse().healthCheck());
   if (healthCheck.success) {

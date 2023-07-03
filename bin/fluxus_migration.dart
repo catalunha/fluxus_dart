@@ -1,7 +1,8 @@
 import 'dart:io';
 
+import 'package:fluxus_migration/attendance/attendance_action_01.dart';
+import 'package:fluxus_migration/event/event_action_01.dart';
 import 'package:fluxus_migration/init_b4a.dart';
-import 'package:fluxus_migration/shared/shared_action_01.dart';
 
 void main(List<String> arguments) async {
   // final isInitialized = await initB4AFluxus();
@@ -16,6 +17,8 @@ void main(List<String> arguments) async {
   // expertiseJsonToFluxus2();
   // patientFluxusToJson();
   // patientJsonToFluxus2();
-  sharedAction01();
+  // sharedAction01();
   // userProfileAction01();
+  await attendanceAction01();
+  await eventAction01();
 }
