@@ -1,8 +1,8 @@
 import 'dart:io';
 
-import 'package:fluxus_migration/attendance/attendance_action_01.dart';
-import 'package:fluxus_migration/event/event_action_01.dart';
-import 'package:fluxus_migration/init_b4a.dart';
+import 'package:fluxus_dart/attendance/attendance_action_01.dart';
+import 'package:fluxus_dart/event/event_action_01.dart';
+import 'package:fluxus_dart/init_b4a.dart';
 
 void main(List<String> arguments) async {
   // final isInitialized = await initB4AFluxus();

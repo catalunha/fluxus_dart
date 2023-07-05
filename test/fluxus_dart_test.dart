@@ -1,4 +1,4 @@
-// import 'package:fluxus_migration/fluxus_migration.dart';
+// import 'package:fluxus_dart/fluxus_dart.dart';
 // import 'package:test/test.dart';
 
 void main() {
