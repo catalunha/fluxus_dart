@@ -21,6 +21,6 @@ void main(List<String> arguments) async {
   // await attendanceAction01();
   // await eventAction01();
   // activityAction01();
-  // patientHealthPlanAction01();
-  therapyAction01();
+  // await patientHealthPlanAction01();
+  await therapyAction01();
 }
