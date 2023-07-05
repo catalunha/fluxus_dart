@@ -1,7 +1,5 @@
 import 'dart:io';
 
-import 'package:fluxus_dart/attendance/attendance_action_01.dart';
-import 'package:fluxus_dart/event/event_action_01.dart';
 import 'package:fluxus_dart/init_b4a.dart';
 
 void main(List<String> arguments) async {
@@ -19,6 +17,6 @@ void main(List<String> arguments) async {
   // patientJsonToFluxus2();
   // sharedAction01();
   // userProfileAction01();
-  await attendanceAction01();
-  await eventAction01();
+  // await attendanceAction01();
+  // await eventAction01();
 }
