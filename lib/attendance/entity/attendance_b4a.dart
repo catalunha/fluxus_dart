@@ -20,19 +20,20 @@ class AttendanceB4a {
     }
     if (cols.containsKey('${AttendanceEntity.className}.pointers')) {
       query.includeObject(cols['${AttendanceEntity.className}.pointers']!);
-    } else {
-      query.includeObject([
-        'professional',
-        'professional.region',
-        'procedure',
-        'procedure.expertise',
-        'patient',
-        'patient.region',
-        'healthPlan',
-        'healthPlan.healthPlanType',
-        'status',
-      ]);
     }
+    //  else {
+    //   query.includeObject([
+    //     'professional',
+    //     'professional.region',
+    //     'procedure',
+    //     'procedure.expertise',
+    //     'patient',
+    //     'patient.region',
+    //     'healthPlan',
+    //     'healthPlan.healthPlanType',
+    //     'status',
+    //   ]);
+    // }
     ParseResponse? parseResponse;
     try {
       parseResponse = await query.query();

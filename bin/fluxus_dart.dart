@@ -1,7 +1,7 @@
 import 'dart:io';
 
+import 'package:fluxus_dart/event/event_action_01.dart';
 import 'package:fluxus_dart/init_b4a.dart';
-import 'package:fluxus_dart/therapy/therapy_action_01.dart';
 
 void main(List<String> arguments) async {
   // final isInitialized = await initB4AFluxus();
@@ -19,8 +19,8 @@ void main(List<String> arguments) async {
   // sharedAction01();
   // userProfileAction01();
   // await attendanceAction01();
-  // await eventAction01();
+  await eventAction01();
   // activityAction01();
   // await patientHealthPlanAction01();
-  await therapyAction01();
+  // await therapyAction01();
 }

@@ -15,16 +15,19 @@ Future<void> attendanceAction01() async {
       DateTime(start.year, start.month, start.day));
   query.whereLessThanOrEqualTo(AttendanceEntity.authorizationDateCreated,
       DateTime(end.year, end.month, end.day, 23, 59));
+
   query.whereEqualTo(
       AttendanceEntity.professional,
       (ParseObject(UserProfileEntity.className)..objectId = 'hE0Ng2FSwQ')
           .toPointer());
-  final list = await AttendanceB4a().list(
-    query,
-  );
+
+  final list = await AttendanceB4a().list(query, cols: {
+    "${AttendanceEntity.className}.cols": [AttendanceEntity.id]
+  });
   int index = 1;
   for (var element in list) {
     print('${index++}: ${element.id}');
+    print('$element');
   }
   print('--- attendanceAction01...');
 }

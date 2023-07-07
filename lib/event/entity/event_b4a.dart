@@ -1,3 +1,5 @@
+import 'dart:developer';
+
 import 'package:parse_server_sdk/parse_server_sdk.dart';
 
 import '../../utils/pagination.dart';
@@ -32,11 +34,15 @@ class EventB4a {
       response = await query.query();
       final List<EventModel> listTemp = <EventModel>[];
       if (response.success && response.results != null) {
+        log('EventB4a list length: ${response.results?.length}');
         for (var element in response.results!) {
           listTemp.add(await EventEntity().toModel(element, cols: cols));
         }
         return listTemp;
       } else {
+        log('EventB4a list empty...');
+        log('${response.count}');
+        log('${response.error?.message}');
         return [];
       }
     } catch (error, stackTrace) {
