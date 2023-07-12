@@ -67,9 +67,9 @@ Future<void> eventAction01() async {
     final end = DateTime(2023, 06, 27);
 
     eventsOr.whereGreaterThanOrEqualsTo(
-        EventEntity.day, DateTime(start.year, start.month, start.day));
+        EventEntity.start, DateTime(start.year, start.month, start.day));
     eventsOr.whereLessThanOrEqualTo(
-        EventEntity.day, DateTime(end.year, end.month, end.day, 23, 59));
+        EventEntity.start, DateTime(end.year, end.month, end.day, 23, 59));
     eventsOr.orderByDescending('updatedAt');
 
     final list2 = await EventB4a().list(

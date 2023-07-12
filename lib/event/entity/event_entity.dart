@@ -2,7 +2,6 @@ import 'package:parse_server_sdk/parse_server_sdk.dart';
 
 import '../../attendance/entity/attendance_entity.dart';
 import '../../attendance/model/attendance_model.dart';
-import '../../hour/entity/hour_entity.dart';
 import '../../room/entity/room_entity.dart';
 import '../../status/entity/status_entity.dart';
 import '../model/event_model.dart';
@@ -10,12 +9,11 @@ import '../model/event_model.dart';
 class EventEntity {
   static const String className = 'Event';
   static const String id = 'objectId';
-  static const String day = 'day';
-  static const String hour = 'hour';
+  static const String start = 'start';
+  static const String end = 'end';
   static const String room = 'room';
   static const String status = 'status';
   static const String attendances = 'attendances';
-  static const String history = 'history';
 
   Future<EventModel> toModel(
     ParseObject parseObject, {
@@ -53,10 +51,8 @@ class EventEntity {
 
     final EventModel model = EventModel(
       id: parseObject.objectId!,
-      day: parseObject.get<DateTime>(EventEntity.day)?.toLocal(),
-      hour: parseObject.get(EventEntity.hour) != null
-          ? HourEntity().toModel(parseObject.get(EventEntity.hour))
-          : null,
+      start: parseObject.get<DateTime>(EventEntity.start)?.toLocal(),
+      end: parseObject.get<DateTime>(EventEntity.end)?.toLocal(),
       room: parseObject.get(EventEntity.room) != null
           ? RoomEntity().toModel(parseObject.get(EventEntity.room))
           : null,
@@ -64,7 +60,6 @@ class EventEntity {
       status: parseObject.get(EventEntity.status) != null
           ? StatusEntity().toModel(parseObject.get(EventEntity.status))
           : null,
-      history: parseObject.get(EventEntity.history),
     );
     return model;
   }
@@ -72,17 +67,13 @@ class EventEntity {
   Future<ParseObject> toParse(EventModel model) async {
     final parseObject = ParseObject(EventEntity.className);
     parseObject.objectId = model.id;
+    if (model.start != null) {
+      parseObject.set<DateTime?>(EventEntity.start, model.start);
+    }
+    if (model.end != null) {
+      parseObject.set<DateTime?>(EventEntity.end, model.end);
+    }
 
-    if (model.day != null) {
-      parseObject.set<DateTime?>(EventEntity.day,
-          DateTime(model.day!.year, model.day!.month, model.day!.day));
-    }
-    if (model.hour != null) {
-      parseObject.set(
-          EventEntity.hour,
-          (ParseObject(HourEntity.className)..objectId = model.hour!.id)
-              .toPointer());
-    }
     if (model.room != null) {
       parseObject.set(
           EventEntity.room,
@@ -95,9 +86,7 @@ class EventEntity {
           (ParseObject(StatusEntity.className)..objectId = model.status!.id)
               .toPointer());
     }
-    if (model.history != null) {
-      parseObject.set(EventEntity.history, model.history);
-    }
+
     return parseObject;
   }
 

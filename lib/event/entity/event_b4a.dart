@@ -1,5 +1,3 @@
-import 'dart:developer';
-
 import 'package:parse_server_sdk/parse_server_sdk.dart';
 
 import '../../utils/pagination.dart';
@@ -12,6 +10,7 @@ class EventB4a {
     Pagination? pagination,
     Map<String, List<String>> cols = const {},
   }) async {
+    query.setLimit(1000);
     if (pagination != null) {
       query.setAmountToSkip((pagination.page - 1) * pagination.limit);
       query.setLimit(pagination.limit);
@@ -19,30 +18,28 @@ class EventB4a {
     if (cols.containsKey('${EventEntity.className}.cols')) {
       query.keysToReturn(cols['${EventEntity.className}.cols']!);
     }
-    if (cols.containsKey('${EventEntity.className}.pointers')) {
+    if (cols.containsKey('${EventEntity.className}.pointers') &&
+        cols['${EventEntity.className}.pointers']!.isNotEmpty) {
       query.includeObject(cols['${EventEntity.className}.pointers']!);
-    } else {
-      query.includeObject([
-        EventEntity.hour,
-        EventEntity.room,
-        EventEntity.status,
-      ]);
     }
+    //  else {
+    //   query.includeObject([
+    //     EventEntity.hour,
+    //     EventEntity.room,
+    //     EventEntity.status,
+    //   ]);
+    // }
 
     ParseResponse? response;
     try {
       response = await query.query();
       final List<EventModel> listTemp = <EventModel>[];
       if (response.success && response.results != null) {
-        log('EventB4a list length: ${response.results?.length}');
         for (var element in response.results!) {
           listTemp.add(await EventEntity().toModel(element, cols: cols));
         }
         return listTemp;
       } else {
-        log('EventB4a list empty...');
-        log('${response.count}');
-        log('${response.error?.message}');
         return [];
       }
     } catch (error, stackTrace) {
@@ -64,12 +61,6 @@ class EventB4a {
     }
     if (cols.containsKey('${EventEntity.className}.pointers')) {
       query.includeObject(cols['${EventEntity.className}.pointers']!);
-    } else {
-      query.includeObject([
-        EventEntity.hour,
-        EventEntity.room,
-        EventEntity.status,
-      ]);
     }
     query.first();
     try {
@@ -78,9 +69,7 @@ class EventB4a {
       if (response.success && response.results != null) {
         return EventEntity().toModel(response.results!.first, cols: cols);
       }
-    } catch (error, stackTrace) {
-      print(error);
-      print(stackTrace);
+    } catch (_) {
       rethrow;
     }
     return null;
