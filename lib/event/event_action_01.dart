@@ -32,9 +32,11 @@ Future<void> eventAction01() async {
         "${AttendanceEntity.className}.cols": [AttendanceEntity.id]
       },
     );
+    print('+++ Lista de atendimentos');
     for (var element in list) {
       print('${element.id}');
     }
+    print('--- Lista de atendimentos');
 
     final QueryBuilder<ParseObject> queryEvent =
         QueryBuilder<ParseObject>(ParseObject(EventEntity.className));
@@ -43,18 +45,17 @@ Future<void> eventAction01() async {
     for (var element in list) {
       final QueryBuilder<ParseObject> queryTemp =
           QueryBuilder<ParseObject>(ParseObject(EventEntity.className));
-      // final start = DateTime(2023, 06, 25);
-      // final end = DateTime(2023, 06, 27);
+      // final start = DateTime(2023, 07, 9);
+      // final end = DateTime(2023, 07, 11);
 
-      // queryTemp.whereGreaterThanOrEqualsTo(
-      //     EventEntity.day, DateTime(start.year, start.month, start.day));
-      // queryTemp.whereLessThanOrEqualTo(
-      //     EventEntity.day, DateTime(end.year, end.month, end.day, 23, 59));
+      // queryTemp.whereGreaterThanOrEqualsTo(EventEntity.start,
+      //     DateTime(start.year, start.month, start.day).toUtc());
+      // queryTemp.whereLessThanOrEqualTo(EventEntity.end,
+      //     DateTime(end.year, end.month, end.day, 23, 59).toUtc());
 
       queryTemp.whereEqualTo(
         EventEntity.attendances,
-        (ParseObject(AttendanceEntity.className)..objectId = element.id)
-            .toPointer(),
+        ParseObject(AttendanceEntity.className)..objectId = element.id,
       );
 
       listQueries.add(queryTemp);
@@ -63,8 +64,8 @@ Future<void> eventAction01() async {
       ParseObject(EventEntity.className),
       listQueries,
     );
-    final start = DateTime(2023, 06, 25);
-    final end = DateTime(2023, 06, 27);
+    final start = DateTime(2023, 07, 9);
+    final end = DateTime(2023, 07, 11);
 
     eventsOr.whereGreaterThanOrEqualsTo(
         EventEntity.start, DateTime(start.year, start.month, start.day));
@@ -75,10 +76,11 @@ Future<void> eventAction01() async {
     final list2 = await EventB4a().list(
       eventsOr,
     );
-
+    print('+++ Lista de eventos');
     for (var element in list2) {
       print('${element.id}');
     }
+    print('--- Lista de eventos');
 
     /*
 
