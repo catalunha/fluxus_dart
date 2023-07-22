@@ -1,0 +1,238 @@
+id,name,nickname,email,phone,cpf,address,cep,is_female,birthday
+e1ac042f-0ffd-4cca-a484-3a2200fca8ba,"Jaqueline Neves Medina","Jaqueline",,"984065375","9354303692","Rua 2 280 Monte Castelo","35338000",true,1989-12-04 00:00:00
+fbe0517f-b314-4229-8bd9-fd94b9762b0f,"Ednayla Aparecida Da Silva Mendes","Ednayla",,,"9532877690","Avenida Engenheiro Roberto Lassance 1594pto401",,true,1990-01-15 00:00:00
+6a05d5d9-be88-4c40-b999-0620d1eb9759,"Lindomar Nunes Soares","Lindomar",,"984164037","778562603","Rua Berilo 2449 Sao Raimuldo","35043110",false,1978-05-14 00:00:00
+5f8cbf59-1049-4fb2-87f3-7ef41563d12b,"Reny Geraldo Teixeira Marinho","Reny",,"33988123870","18798508695","Avenida Beira Lago 219,altinopolis Gv.mg",,false,2021-05-08 00:00:00
+2c94a96a-0a63-4b97-b9f0-c2dfea39b61b,"Bernard Rezende Dos Santos Martins","Bernard",,"33991100910","16759171675","","35054890",true,2014-04-23 00:00:00
+f71f9b56-8b6c-4f4e-8041-f3e66dc4d23c,"Noah Lourenço De Oliveira Santos","Noah",,"33999661492","18291398607","Rua Sao Simao ,467 Vila Mariana Gv.mg",,false,2020-02-16 00:00:00
+3cc394a7-137f-41e5-b3ce-dbce802df7c2,"Emanuele Lino De Almeida","Emanuele",,,,"",,true,2019-05-13 00:00:00
+3ea3480d-c43d-4120-bc99-1e3bd01f77dd,"Lucas Ramos De Souza","Lucas",,,"16769575612","Rua Nicolau José Gonçalves.49 Apto 201 Lourdes Gv.mg","35032670",true,2018-01-22 00:00:00
+cbcc6388-230d-4136-9855-ddd0e72d6c15,"Isadora Brandão De Paula","Isadora",,,"18631586692","Rua Leila Cabral 858 Vale Pastoril2","35046112",true,2020-12-03 00:00:00
+285e2d03-4f32-40dc-9f4a-5fb5c760c74c,"Nicolle Batista Matos","Nicolle",,,"13043104692","Avenida Engenheiro Humberto Tavares Chagas149apto 301","13043104692",true,2011-08-24 00:00:00
+0fe98288-07ec-4973-b460-a52b1f9a3bae,"Ivanise Guimaraes Souza Coelhoivanise Guimaraes Souza Coelhoivanise Guimaraes Souza Coelho","Ivanise",,,"633767689","Marataizes 143 Vila Do Sol","3541390",true,1971-09-07 00:00:00
+3a984367-bfdf-48bd-9e07-bf2f462e3dd4,"Mariana Correia Moreira","Mariana","","33988003195","17849161610","Avenida A,979 Planalto Gv.mg","35054180",true,2019-05-11 00:00:00
+e4b50c56-2808-4073-bd78-5c431495b9a9,"Vitor Pinho Dos Anjos","Vitor",,"33991061642","17984970696","Rua Milwald Alves Lima .41 Castanheiras Gv.mg","35054761",false,2019-09-07 00:00:00
+2e9c30fc-4ab2-46cb-a9c1-68d9d8144607,"Luna Silveira Mendes","Luna","","","18536900660","Avenida Engenheiro Roberto Lassance ,1594 Apto 401 Vilsa Isa Gv.mg",,true,2020-09-06 00:00:00
+eafd2cb7-530f-42fc-a55f-7c53b1eebc4b,"Daniel Do Vale Silva Duarte","Daniel",,"33999737483","15103709600","Rua Rodrigues Alves 1340,santa Rita Gv.mg",,true,2014-02-15 00:00:00
+923ffe95-21d7-4a76-88c0-cfb072dabee6,"Luis Antonio Goulart Orives De Assis","Luis",,"33991239445","18213665651","",,true,2020-01-06 00:00:00
+8c9c88ad-643d-4437-8a63-a515a128fdbf,"Alisson Siqueira Tenorio","Alisson",,,"3904942670","Rua Quatro 221 Jk","35045576",false,1979-03-16 00:00:00
+260454a6-9fc9-4b71-9eb9-a9ae0e06bbc4,"João Victor Oliveira Brandão","João",,,"12919231600","Rua Padre Barros 199 Centro Virgolandia","39715000",false,2009-09-16 00:00:00
+7e8b4daa-8153-4b82-90a1-aa07c4d89061,"Debora Barros De Melo","Debora",,,"14195261627","Rua Henrique Faroni 170 Elvamar","35044460",true,2013-10-01 00:00:00
+bc08ff52-60e4-42f7-b7c6-79477d31c465,"Pedro Da Silva Leal","Pedro","","31993800603","18341800667","Rua Treze De Maio,527 Apto 202 São Paulo Gv.mg","35030765",false,2020-04-03 00:00:00
+68b6bf7c-485c-424a-a42d-cb678d18ab9c,"Isabella Luiza Barros De Melo","Isabella",,,"12861458640","Rua Enrique Faroni 170 Elvamar","35044460",true,2006-01-30 00:00:00
+9f77245d-21b9-444d-98dd-317faedd621e,"Caio Emanuel Dutra Almeida Malosto","Caio",,,,"Rua Azaleias 341 Vale Do Sol","35042784",true,2012-01-09 00:00:00
+b3e4e270-e5f8-4bdf-b487-8a3e2620dc7c,"Samuel Benute Oliveira","Samuel",,"31982565485","17735385609","Avenida Europa,84 Grã Duquesa Gv.mg","35057200",true,2019-03-31 00:00:00
+fc718298-cff9-4dce-9577-6c47f7ef9072,"Janaina De Oliveira Carvalho","Janaina",,,"99176467600","Rua Marataizes 146 Vila Do Sol","35041390",true,1972-07-15 00:00:00
+99055dac-2842-4dc6-83b3-5acbcd4a7623,"Helena Marques Correa","Helena",,"33999634138","18647314603","Rua Rubens Amaral Castanheiras 2 Gv.mg","3505882",true,2020-12-16 00:00:00
+8bd1bcdb-6e41-43cb-abac-09a9eaacd5c6,"Yasmim Franciely Souza Costa","Yasmim",,"988811655","14773707658","Rua Tarumirim 251 Carapina","35060500",true,2009-12-11 00:00:00
+9fe57a5c-0327-4d22-adea-a1ff8ea31851,"Dublonya Pinho Ribeiro","Dublonya",,"33991061642","6222555683","Rua Milward Alves De Lima 41 Castanheiras","35054761",true,1985-03-13 00:00:00
+7a6df58b-3c0b-456b-9edd-7597aa57eda4,"Samuel Silva Damacena","Samuel",,"33999004525","16665807673","Rua Doutor Paulo De Sousa Lima,440 Cidade Nova Gv.mg","35063007",false,2017-12-10 00:00:00
+33a1e1a7-16ca-4c02-a5b0-b35c502279f9,"Danielli Estefani Oliveira Araujo","Danielli",,"988985932","10454254601","Avenida Bromelia 60",,true,1996-10-28 00:00:00
+7812a0fa-c6f1-4e0b-81b2-76108637b689,"Thiago Augusto Gonçalves Lima","Thiago",,"988305503","70535668627","Rua Palermo 45 Gra Duquesa","35057552",false,2011-05-18 00:00:00
+42b2244b-2481-4955-bc5a-f92eac30f5af,"Maria Das Graças Alves","Maria",,"33984199116","60704535653","Rua 4 152 Bairro Penha","35040760",true,1968-07-02 00:00:00
+c64eadb3-54c3-4e64-a45f-a68660ca402a,"Ana Julia Fernandes Da Silva","Ana",,"988093351","14764878631","Rua Das Guainas 127","35051290",true,2007-04-30 00:00:00
+c15bc0ab-aa00-4db4-a67b-001ca2b82f95,"Edna De Assis Campos Barbosa","Edna",,"991164413","57640629691","Rua Ranulfo Alvares 251 Vila Isa","35044220",true,1967-02-13 00:00:00
+db386e48-3498-4e35-a2c4-b2b1598f1617,"Iago Peres De Almeida","Iago",,"998049286","15209251667","Rua J 176 Vale Verde","35059610",false,2010-07-26 00:00:00
+7dd07682-dee3-4dcd-9dd8-b46897e6340a,"João Lucas Reis Pio","João",,,"15528567637","Rua João Lopes Da Silva447 Vila Bretas Gv.mg","35032210",false,2016-03-29 00:00:00
+7ef359df-da73-4d8b-96b6-c83fa74c2902,"Fernanda Ribeiro Bonfim","Fernanda",,"988018307","3402664658","Rua Joaquim Faria Salgado Morada Do Vale","35057400",true,1979-10-03 00:00:00
+2b8dbf05-9750-451e-b0eb-e7ae62519da9,"Ezilene Candida Andrade Silva","Ezilene",,"999204038","9028570616","Rua Dos Aimores369 Santa Rita Gv .mg","35040030",true,1988-03-26 00:00:00
+e780c02d-ca71-4dca-a351-0814753d5657,"Daniela Fernanda Ferreira Armond","Daniela",,,"5390882695","Rua Constantino Ômega293 Esplanada Gv.mg","35020140",true,1983-01-10 00:00:00
+edf29721-36eb-4b35-b9d6-03c0a037e3b5,"Ana Julia Lima De Castro","Ana",,,"12957900688","Rua Oito127apartamento302 Cidade Jardim Gv.mg","35047040",true,2011-02-14 00:00:00
+a0dc65c9-ff16-49a0-adca-0b768ca4ab5d,"Gilzane Ferreira Da Cunha Pinheiro","Gilzane",,"984535397","6497281657","Rua Simonton,365 Santa Rita Gv.mg","35040500",true,1983-09-09 00:00:00
+0f6deac2-8597-4d2d-adb7-e74eb219023f,"Rafaela Goulart Araujo De Assis","Rafaela",,,"11511910607","Rua Oiticica,92 Jardim Ipe Gv.mg","35043370",true,1994-06-23 00:00:00
+ea5afda7-847c-472a-bbd3-afa4bb2e3e34,"Saymon Wallace Dos Santos Da Cunha","Saymon",,,"8347422680","Rua Sedro 298 Turmalina Gv.mg",,false,1988-05-28 00:00:00
+0bba0163-9e6f-46ca-a7ad-f9c67cc23f7e,"Lívia Vasconcelos De Andrade","Lívia",,"984023012","9078909625","Rua Rio De Ajneiro,448 Belo Oriente Centro","35195000",true,1989-05-25 00:00:00
+fca1412e-a0ad-4ede-8224-12beb7cb4218,"Pedro Lopes Siqueira","Pedro",,"3398857768","11454070641","",,false,1997-03-26 00:00:00
+c0b51d55-f207-43cb-8704-a064a5288d9e,"Edileide Costa Paz De Andrade","Edileide",,,"94508658687","Rua Israel Pinheiro 4200 Ap 202 Loudes","35032180",true,1972-03-01 00:00:00
+400aa912-e972-4b0b-808a-ab8eb089e5b2,"Ian Viana Apolinario","Ian","","","18832623641","Rua Joao Pereira Neves Sao Cristovao","35050090",false,2021-06-08 00:00:00
+8d00877d-91e7-40ba-9982-501f780d30e7,"Arthur Reis Pio","Arthur",,"33984260919","18808456609","Rua Adrualdo Monte Alto 464 Sir","35024410",true,2021-05-17 00:00:00
+f72c809e-4b9b-4525-84f0-c07f5cbbe836,"Julia De Carvalho Ribeiro","Julia",,,"15781113665","Rua Parana 361 Loudes","35030420",true,2021-03-16 00:00:00
+076686f5-9aa5-4cdb-bbd4-98de70d23033,"Beatriz Transpadini Pedroni","Beatriz",,"33999455048","15366046661","Rua Mato Grosso,929 Bairro Lurdes Governador Valadares Mg","35032300",true,2016-01-14 00:00:00
+421db59d-5d26-4150-a364-63593dcd9ee0,"Heitor Do Vale Silva Duarte","Heitor","","33999737483","18590488624","Rua Rodrigues Alves 10340 Santa Rita","35040440",false,2020-10-27 00:00:00
+78c98980-0e95-46b5-9822-d8ceec10e1cc,"Tulio Guimaraes De Abreu","Tulio",,"33988842911","14094779671","Rua Maranhao 486 Lourdes","35032290",false,2013-09-18 00:00:00
+0c687688-c1fd-49c0-95ad-6692746b4f47,"Isabella Dias Procopio Do Monte","Isabella",,"33984369618","12585204600","Avenida Europa 243 Gra Duquesa","35057200",true,2010-09-10 00:00:00
+bfc66c90-b979-4db4-a330-935811f62ec0,"Joaquim Batista Pinheiro","Joaquim","","33988374755","18657504685","Rua Pau Brasil Cidade Nova","35063002",false,2020-12-29 00:00:00
+bee16cd4-6bb4-40f3-a3a7-e8d728527b1c,"Caic Frantheley Silverio Carvalho","Caic","","33988862527","18534363641","Avenida Cem 70 Azteca","35042140",false,2020-09-02 00:00:00
+ae40f2c5-1db9-4327-a1ef-b9e8ab827d6b,"Benicio De Almeida Moreira","Benicio",,,,"Rua Esmeralda 20946 Sao Raimundo","35044090",false,2020-12-20 00:00:00
+4c05e8fb-6328-4bb7-9f9d-6b2dd84ff858,"Joao Guidime De Melo","Joao",,"3399831269","18503483670","Rua Joaquim Faria Salgado 89 Apto102 Morada Do Vale","35057400",false,2020-08-03 00:00:00
+4951dd30-7466-49bb-9828-db7320c0d24a,"Daniel Ribeiro Muniz Bonfim","Daniel",,"33988018307","14243543666","Rua Joquim Faria Salgado 1055 Morada Do Vale","35057400",false,2009-03-14 00:00:00
+153e1466-888d-4988-a515-e6c605455517,"Caic Fran Caic Frantheley Silverio Carvalho","Caic",,,"18534363641","Avenida Cem 70","35042140",false,2020-09-02 00:00:00
+8b67d719-d30a-4d3d-8737-06134f9e22a6,"Vitor Silva Furtado","Vitor","","","16957182673","Rua T 310 Nova Vila Bretas","35051640",false,2018-04-08 00:00:00
+1e48f902-6ec8-4ec9-8821-25d8d623debc,"Gabriel Sota Vaz","Gabriel",,,"17456692645","Rua Astolfo Silva 127 Centro Mendes Pimentel","3527000",false,2018-11-21 00:00:00
+fa604cc6-c2fe-4f9f-b9a9-17d42547a876,"Josue Paula Monthuan","Josue",,"33988269410","13530821640","Rua Padre Manoel Da Nobrega 250 Vera Cruz","35041660",false,2012-12-27 00:00:00
+1b0709d6-3844-4966-b704-ea9e9f90d94a,"Giovani Lopes De Araujo Filho","Giovani",,,"9376184629","Rua Arlindo Lopes Correa 34 Conzaga Centro","39720000",false,1994-03-08 00:00:00
+30bd3c87-3c15-49d7-a32b-613217a9ae7d,"Geanne Zimmerer Silveira Blanc","Geanne",,"33988446911","4253300600","Rua Noe Machado 512 Esperança",,true,1977-10-29 00:00:00
+b749761c-a03e-4f18-8d39-a81dedf09a76,"Vinicius Miguel Vieira Gusmao","Vinicius",,"33984250234","1536279641","Rua Doutor Ruy Debiase 29 Castanheiras ||","35054894",false,1986-02-01 00:00:00
+5d7ef305-5239-40b3-9056-538b1d303120,"Pedro Henrique Dias","Pedro",,"33987291114","12620627648","Rua Bemtivis 245 Alto Esplanada",,false,2010-11-20 00:00:00
+82bbf120-d9db-4e52-9327-372a548585a6,"Geovani Lopes De Araujo Filho","Geovani",,"33999259251","9376184629","Rua Arlindo Lopes Correa 34","39720000",false,1994-03-08 00:00:00
+d3a04e1c-2731-4be2-86cb-3aa7b13ee1f0,"Arthur Rodrigues Pio","Arthur",,,"18808456609","Rua Adrualdo Monte Alto 464 Sir","35024410",false,2021-05-17 00:00:00
+e2a2e9ba-8b4a-489b-ade1-5ac8dd37c3e0,"Matheus Torres Oliveira","Matheus",,"33988432869","14686132606","Avenida Carandai","35051080",false,2013-03-05 00:00:00
+7ad7efd6-ca8d-488f-bed4-593fab8b083b,"Julia Santos Oliveira","Julia",,"33988043021",,"Rua Dos Aimores 207 Jardim Perola","35051010",true,2005-06-20 00:00:00
+7ca698d5-5671-4d07-b94a-78dc3ae554d2,"Guilherme Gonçalves","Guilherme",,,"15238138652","Rua Buenos Aires 756 Jardim Perola","35051070",false,2009-08-20 00:00:00
+26ab48c5-e9a7-4f7a-894c-9751a8451334,"Silvane Torres De Andrade","Silvane",,,"5983771663","Avenida Carandai 290 Bloco Apto 304","35051080",true,1982-09-12 00:00:00
+115b01ae-449a-4ca2-b670-95d585c3986e,"Luiza Santana Machado","Luiza",,,,"",,true,2020-02-05 00:00:00
+62929e34-2498-4c85-9d8a-743f15247397,"Jose Guedes Miranda De Faria","Jose Guedes","","33991140454","17951008699","Rua Vinte E Cinco 70 Santos Dumont |","35022260",false,2019-07-10 00:00:00
+79f8e936-90d1-44df-a189-a2c5f225ba2a,"Angela Maria Ramos Santos","Angela",,,"78789834534","Avenida Engenheiro Felipe Moreira Caldas 706 Nova Vila Bretas","35051170",true,1975-12-15 00:00:00
+fb8abfdb-0c2b-496c-8f83-48610b3232a0,"Evellin Oliveira","Evellin",,"33988115891","14196608701","Rua Cecil Rodrigues Coelho 22","35058595",true,1994-10-16 00:00:00
+4fb9435b-beba-4fad-b27a-efeccab90fa4,"Joao Batista Pinheiro","Joao",,"988374755","18657504685","Rua Pau Brasil Cidade Nova","35063002",false,2020-12-29 00:00:00
+be751298-5c57-4270-ad62-05cb9781af29,"Fernanda Correia","Fernanda",,"33988003195","6895511695","Avenida A 969","35054180",true,1984-06-29 00:00:00
+8311c233-7675-4b78-be31-226249f658b3,"Martha Aparecida Lopes","Martha",,"33984435560","83711627668","Avenida Luiz Gonçalves Lessa 1248 Vila Isa","35041380",true,1969-04-04 00:00:00
+a5d1b0d8-17b1-46d3-a4ac-9cb0688b8d54,"Vinicius Souto Montimor","Vinicius",,,"14526072656","Rua Conego Lafaiete 86 Sao Jose","35050020",false,2014-03-02 00:00:00
+2c42a6e7-9838-44e3-99bd-887280684f71,"Felipe Ribeiro Muniz Bonfim","Felipe",,,"15774611698","Rua Joaquim Faria Salgado 1055 Morada Do Vale","35057400",false,2011-05-21 00:00:00
+da5c199a-f149-49db-8c22-4b679f60fea9,"Giovana Barbosa Mendes","Giovana",,,"14726821652","Rua Pedro Lessa 747 Apto 01 Lourdes","35030440",true,2002-03-19 00:00:00
+56cb3adb-3dbe-4dbe-aeea-058b67b8af21,"Henrique De Andrade Torquato","Henrique",,"33988468895","16157111631","Rua Luis Escarabeli 2 Centro Itanhomi","35120000",false,2017-02-10 00:00:00
+a34dedb0-0655-4f46-8d34-c41630517ebd,"Rafaela Cristina Antunes Da Silva","Rafaela",,"33987061707","13373116694","Rua Agripino Ribeiro Dos Santos 1321",,true,1994-06-02 00:00:00
+476a589b-2afd-4586-bbd5-464e6d29849c,"Ayla Gabriely De Souza","Ayla",,"33991116982","19044711610","Rua Jose Rosa Guimaraes 39 Centro Naque","35117000",true,2021-12-24 00:00:00
+f23f1b8a-bed3-47de-9d23-9b20ebbcda5d,"Gustavo Augusto Freitas","Gustavo","","33984521517","18144146654","Rua Professor Cid Pitanga 134","35050610",false,2019-11-23 00:00:00
+b419596c-1d15-4e19-a0f0-009dfde32314,"Valdecir Pereira Soares","Valdecir",,"3988438892","66953669691","Rua Dalila Cabral 271","35030110",false,1970-08-06 00:00:00
+0c849260-8df2-4cfc-9955-b00daa1455bc,"Lorena Costa Silva Pereira Galarane","Lorena",,"31998318096","7069067640","Rua Santa Rita 124 Santa Rita","35040470",true,1991-05-18 00:00:00
+c0cd2638-3459-4734-bf4d-3a3c5bc65fc7,"Marcone Gonçalves Da Silva Gomes","Marcone",,"33999278710","5098126606","Rua Benjamim Rodrigues Coelho 43 Santa Rita","35040080",false,1982-09-01 00:00:00
+db288c7d-d3f3-47f0-8562-a7a9b3a5cb90,"Gabriel Alves Moreira","Gabriel",,,"17342404667","Rua Gabriel Tolentino Gonçalves 145","35042380",false,2018-09-23 00:00:00
+797cc685-4be6-4ba6-8cbc-2fe2053b43d8,"Eliana Cristina Pimenta","Eliana",,"33987118148","148486606","Rua Coromandel 206 Nova Vila Bretas","35051140",true,1976-01-16 00:00:00
+af78e6c0-9bf4-4ff2-9df4-dedfbe544f6d,"Sabrina Rodrigues Sales","Sabrina",,"33984029441","6212150664","Rua Venezuela 243 Jardim Perola","35051530",true,1982-05-22 00:00:00
+2802accb-5ec9-468c-bc8a-723531dbef25,"Emanuel Sodre Ramos Filho","Emanuel",,"33991553011","15890969676","Rua Copenhague 151","35057130",false,2016-11-20 00:00:00
+6790b0a9-963f-4390-950d-c7119cd5f012,"Julia Moreira Lemos","Julia",,"33987037595","11867334623","Rua Coronel Roberto Soares Ferreira 1604 A","35030080",true,2004-02-27 00:00:00
+f7c02d35-f79d-4070-b9ce-f584cfd35250,"Atos Silva Mendes","Atos",,"3398005590","11231077697","Rua Alto Da Boa Vista 100 Altinopolis","35053010",false,1989-10-31 00:00:00
+2ee9369e-b39e-4499-9117-85e224345cb5,"Matheus Gonçalves Cipriano","Matheus",,"999486049","70066517605","Rua Jose Pedro Clementino 406","35045310",false,2014-07-29 00:00:00
+4020f612-1311-4cea-8363-e7e3fe8f46a4,"Matheus Gonçalves Cipriano De Souza","Matheus",,"33999486049","70066517605","Rua Jose Pedro Clementino 406 Sao Cristovao","35045310",false,2014-07-29 00:00:00
+960251cf-1a04-4355-b02a-118b715a3214,"Livia Vasconcelos De Andrade","Livia",,"3398402302","9078909625","Rua Rio De Janeiro 448 Centro","35195000",true,1989-05-25 00:00:00
+befa9aa7-8a8d-4018-8301-54abcb555807,"Leodir Rocha","Leodir",,"33984313666","14739097672","Avenida Minas Gerais 776 Apto 1003 Centro",,true,1945-02-28 00:00:00
+261144ba-3554-42bb-97b4-52a0a5911f81,"Davi Geraldo Pereira De Almeida","Davi",,"33988055818","16688516608","Rua Treze 110 Penha","35040630",false,2017-12-17 00:00:00
+678b66e8-1582-4f8d-a4f1-117794772801,"Alcione Soares Pacheco","Alcione",,"999647047","980033640","",,true,1969-12-13 00:00:00
+76954d1d-0aa6-4bbb-a691-256cdaa43612,"Eliane Aparecida Teixeira","Eliane",,"33988830383","89459415687","Rua Sinval Botelho De Almeida 91 Maravilha","35052240",true,1974-08-11 00:00:00
+e1d5e7b8-8807-4b19-922f-1a4bbeb5e291,"Marcela Damasio Soares","Marcela",,"33991074002","70012843601","Rua Ametista 494 Sao Raimundo","35043030",true,2014-04-09 00:00:00
+36a8cbf9-3207-4d6b-8dd1-2920ad395963,"Ester Feliciano Viana Lopes","Ester",,"3399950914","70077036662","Rua Marataizes 408 Vila Do Sol","35041390",true,2015-01-30 00:00:00
+b8e90cb0-9040-4409-a4b3-f58af817ca33,"Gael Dias Fantini","Gael","","33999728997","18923293601","Rua Treze 29 Vale Do Sol 2","35042817",false,2021-09-02 00:00:00
+3f9712a4-7339-44d2-9f76-957c26df305c,"Ana Olivia De Faria Campos","Ana","","33988341424","14548533605","Rua Acesso 112 Gra-duquesa","35057553",true,2009-02-08 23:00:00
+ccd74a15-d060-4a52-9110-8bb0daf54bb7,"Raquel Christyan De Souza Candido","Raquel",,"33999910176","1174544600","Rua Jacaraipe 476 Vila Do Sol","35041370",true,1976-01-22 00:00:00
+63ff4c9d-8db0-4d8e-a2e4-967a67d9ddf8,"Isaac Domiciano Bicalho","Isaac",,"33998722557","70207326665","Rua Mato Grosso 504 Lourdes Governador Valadares","35032300",false,2015-12-13 00:00:00
+56ba70d7-44b5-4245-9a01-1c85aed710ee,"Heitor Gonçalves Mascarenhas","Heitor",,"33991328371","15818442632","Rua Tupiniquins 255 Nova Vila Bretas","35051470",false,2016-09-29 00:00:00
+165b2b24-1a0b-4c8b-b71d-c1e7dd441ba8,"Heitor Abreu Aleixo","Heitor",,"988133728","16735263650","Rua Para 291 Apto 101","35032340",true,2018-01-09 00:00:00
+973d9cdb-c26b-4575-8b74-b17f5ccb1134,"Miguel Gonçalves Alves Braga","Miguel",,"33999040514","13731266636","Rua Felipe Camarao 66","35050050",false,2012-12-06 00:00:00
+85edc6f9-2895-4b46-ba1c-85f36960eac3,"Gabriela De Farias Lopes Nazare","Gabriela","","33988517615","11081063661","Rua Geraldino Barbosa 1710 Bloco Apto 204","35041820",true,2008-01-13 23:00:00
+f2931604-ae76-4e92-8c9f-9bdf1bf1bef2,"Yane Christyan De Souza","Yane",,"99910176","70147534607","Rua Jacaraipe 476 Vila Do Sol","35041370",true,2022-11-10 00:00:00
+f584b569-f3bd-43e9-bf6c-1b42283b0e23,"Geovana Barbosa Mendes","Geovana",,"33998551903","14726821652","Rua Pedro Lessa 747 Apto 01 Lourdes","35030440",true,2002-03-19 00:00:00
+8a9dcba7-467f-43c3-aea6-8531c6d26834,"Alice Machado Dolabela","Alice",,"33988697740","16093653641","Rua Pedro Lessa 265 Apto 102","35030440",true,2005-05-27 00:00:00
+18d7f2ea-1413-4dd5-9490-13eacaee3582,"Patricia Aparecida Nunes","Patricia",,"339887811","6068775682","","35041380",true,1983-07-09 00:00:00
+fe4631e6-17ec-4c6d-a8bd-8a93e5f59020,"Dilemara De Pinho","Dilemara",,"33984558188","6319443626","","35058110",true,1985-02-19 00:00:00
+ed430205-f4ed-4f2a-969a-2123f543e691,"Arilton Mariano Da Silva","Arilton",,"33988230208","43647308668","Maria Amelia Da Silva 132 Bairro Conjunto Sir Governador Valadares",,false,1960-08-04 00:00:00
+60194aea-8fa0-4b39-994c-759ee64922d1,"Maria Celeste Lousada","Maria",,"33984111876","2540834639","Rua Pastor Ormidiosiqueira 0 Lourdes","35032360",true,1954-10-19 00:00:00
+296521c9-0e76-4288-82b4-6adfe470f644,"Juliana Figueiredo Costa De Castro","Juliana",,"3987078894","6528991618","Rua Ituiutaba Santa Helena","35059260",true,1980-08-19 00:00:00
+fa5fff55-dea0-46c8-81b7-a46f2946bde1,"Jorge Abreu De Oliveira","Jorge",,"33999351752","49900757653","Rua Jorge Figueiredo 155 Morada Do Vale","35410057",false,1964-04-11 00:00:00
+b3a37975-3e5b-4b96-bdff-97f66c304f2b,"Elisandra Benny Rodrigues Alves Braga","Elisandra",,"33984068033","3557805697","Rua Padre Joao Pino Do Amaral 646 Governardor Valadares","35130000",true,1977-10-29 00:00:00
+73aec0c9-320c-4719-ba72-552512f16e2d,"Elisangela Mayer Pereira Do Nascimento","Elisangela",,"33998454718","7099764616","Rua Epitacio Pessoal 545apto 01","35040190",true,1981-02-26 00:00:00
+3c14f081-4a33-435a-97a6-336cef0c0265,"Juliana Figueiredo Costa De Castro","Juliana",,"33987078894","6528991618","Rua Ituiutaba 363 Santa Helena Governador Valadares","35059260",true,1980-08-19 00:00:00
+64d0f691-df87-476b-8c4f-73615466e8e3,"Elzita Batista Perboires","Elzita",,"33999286420","3365799699","Rua Jose Luiz Santos 111","35050110",true,1953-01-04 00:00:00
+70bccec9-ff4e-495e-80f3-267bbf4f8346,"Vanir Ferreira De Souza","Vanir",,"3398739207","6462986662","Rua Sao Jose 30 Centro Sao Jose Do Divino","39848000",false,1967-04-30 00:00:00
+5ce9f933-9557-49c6-abb9-8fcec973792b,"Helena Medrado Caetano","Helena","","988850844","17468131643","Rua Geraldino Barbosa 1679","35041820",true,2018-11-22 23:00:00
+f0b91c50-8fcb-4f91-83a8-a24764f12e00,"Lorenzo Apolinario De Oliveira","Lorenzo","","3399113201","11204851182","Rua Joao Pereira Neves 296 Sao Cristovao","35050090",false,2020-02-19 00:00:00
+f616b945-1f5e-4874-8504-e4b0dab187ff,"Getulio Ferreira Dos Santos","Getulio",,"33999763391","24624373634","Rua Santo Inancio De Loiola 204 Vila Mariana","3502120",false,1943-05-29 00:00:00
+9fb7a94d-c08f-474c-b72d-9cca08e93815,"Jonathas Procopio Do Monte","Jonathas",,"3398802267","91165997649","Avenida Europa 243 Gra-duquesa Governador Valadares","35057200",false,1972-05-25 00:00:00
+a2c30d51-57fa-473e-9a73-7f481a369911,"Ana Beatriz Costa Almeida","Ana",,"33991277851","17665953670","Rua Macaubas 474 Cidade Nova Governador Valadares","35063003",true,2019-02-27 00:00:00
+30ac002b-8a11-46e1-af5d-6b64360a2bb8,"Rodrigo Soares De Souza","Rodrigo",,"33987006001","7167292613","Rua Santa Izabel 501 Mae De Deus","35052060",false,1986-09-09 00:00:00
+5b8ba8b9-076d-4c95-9a4b-78c9daf9f18e,"Ana Sophia Costa Almeida","Ana",,"33991277851","17665968600","Rua Macaubas 474 Cidade Nova Governador Valadares","35063003",true,2019-02-27 00:00:00
+d003e9cb-8455-47ee-93a2-329327df972e,"Bruna Ricarda Timoteo","Bruna",,"33991148202","7901974648","Rua Jose De Tasas 188 Apto 201 Vila Bretas Governador Valadares","35030250",true,1985-12-10 00:00:00
+b788b1b5-dd37-488e-9829-0480acf34d10,"Livia Nunes Leal","Livia",,"33999826027","17413764679","Rua Goias 164 Bairro De Lourdes Governador Valadares","35032160",true,2018-11-01 00:00:00
+7ce85697-2143-4e65-9b00-a9f56b79862a,"Rafael Alves Meireles","Rafael",,"33988284480","18339823639","Rua Dos Lirios 109 Bairro Uis Alves Dos Reis",,false,2020-04-01 00:00:00
+f0173766-b844-49b1-b53c-7e3fcd882c8b,"Mariana De Almeida Moreira","Mariana",,,"14723950699","Rua Esmeralda 2946 Saoraimundo Governador Valadares","35044090",true,2014-12-03 00:00:00
+4aafef8d-f13b-4b62-b785-fdcdf4dc13cb,"Sofia Guimaraes Lott","Sofia",,"33991104047","17964672606","Rua Padre Joviano 230 Materlandia Centro","39755000",true,2019-07-24 00:00:00
+5ebc3713-3e31-41b5-8ade-3b6eacecfdd5,"Jaso Whiter A Silva","Jaso",,"33987238230","10421528613","Rua Rubens Amaral 32 Castanheiras 2 Governador Valadares","35054882",true,1989-09-27 00:00:00
+afb6be4d-132b-4523-875c-a52c936f0b09,"Joao Pedro Ferreira Souza","Joao",,"33988918927","14667739606","Rua J 474 Vale Verde","35059610",false,2014-10-27 00:00:00
+1a265290-da59-4dcc-a603-1ddc77618252,"Joao Vicente Rodrigues Santos","Joao",,"33984528296","17849036638","Rua Noberto Luiz De Almeida 558 Governdor Valadares","35040894",false,2019-05-16 00:00:00
+31befbc5-3151-42f2-a0c1-5cc83cc583c3,"Amanda Souza Silva","Amanda",,"33991598477","14416724608","Rua Lopes De Souza 247 Morada Do Vale Governador Valadares","35057470",true,1998-01-26 00:00:00
+99039d82-ff2f-422d-bf06-0df18e0b6c2f,"Bernardo Ian Da Silveira Guedes","Bernardo",,"33987141081","18557466625","Rua Ipe Rosa 1 Centro Itabirinha","35280000",false,2020-09-24 00:00:00
+f71f7a75-8c56-4f77-9b4a-65a777a71e4e,"Sophia Rodrigues De Souza Ferreira","Sophia",,"33999464008","18275681600","Rua Jacaraipe 393 Csa","35041370",true,2020-02-10 00:00:00
+8b948690-2462-42a0-ae62-2736533d98aa,"Leonardo Ribeiro Batista","Leonardo",,"33984326911","2875154605","Rua Teodoro Delfino 331 Jk Governador Valadares","35045600",false,1977-09-12 00:00:00
+42db10a5-240c-4d3b-a5db-b69e1eb4eca2,"Edson Wagner Pereira","Edson",,"33999046215","70847363600","Rua Coronel Faria 735 Galileia","35250000",false,1969-01-04 00:00:00
+e8be1c16-8473-41b2-ba9a-574730218c84,"Laura Freitas Panissi","Laura",,"3391788974","12707400670","Rua Sao Salvador 225 Santa Terezinha Governador Valadares","35030690",true,2011-01-05 00:00:00
+7bc6802a-3329-4634-9a7e-0d56e93175c6,"Stela Machado Dolabela","Stela",,"33991975732","15197785624","Rua Pedro Lessa Apto 102","35030440",true,2001-04-16 00:00:00
+8b365b84-48b5-4762-95ed-427c92cb46ae,"Berthalo Heleno Da Fonseca Monteiro","Berthalo",,"988866776","93026382787","Rua Nova Lima 202 Jardim Perola","35051360",true,1968-01-28 00:00:00
+cadd4547-1378-4550-99dd-f95fc1bbce4a,"Aiza Gonçalves Camargo","Aiza",,"33991800663","14054774660","Rua Itamar Teixeira 529","35040864",true,2010-10-23 00:00:00
+b11cc50c-195e-42cd-9796-ee468d1de476,"Nicolas Pereira","Nicolas",,"33999046215","16396076683","Rua Coronel Faria 735 Galileia Centro","35250000",false,2011-07-08 00:00:00
+8b8da054-01e0-4f94-8ac0-841cb1a8a288,"Kawan Fontes De Moura","Kawan",,"33988158891",,"Rua Professora Conceiçao Teodoro 210 Bairro Sao Paulo","35030510",false,2008-12-14 00:00:00
+e5b975ca-3b5d-472d-8391-51d84aa4bf1b,"Melina Costa Botelho Miranda","Melina",,"3398364390","70256054681","Avenida Presidente Tancredo Neves 89 Nossa Senhora Das Graças","35060440",true,2015-10-24 00:00:00
+8808af2b-db75-499b-9969-f013bc3cb626,"Benjamin Costa Botelho Silva","Benjamin",,"33999838605","2176188632","Avenida Presidente Tancredo Neves 89 Nossa Senhora Das Graças Governador Valadares","35060440",false,2011-11-13 00:00:00
+9abae38b-27ff-4ade-8c74-86e4332222f3,"Bianca Lopes Medeiros","Bianca",,"98853160",,"Rua Topazio 135 Sao Raimundo","35043590",true,2010-11-27 00:00:00
+c80b3d32-09c3-4464-ac3f-845efbbde7d7,"Eliene Soares Belo","Eliene","","33988999862","03721616693","Rua Da Fraternidade 166 Vila Rica Governardor Valadares","35045130",true,1976-10-08 00:00:00
+956d98dc-9531-4147-a7a4-f9ccf77c6269,"Miguel Soares Miranda","Miguel",,"33988895705","18340681699","Rua Santa Tereza 183 Vila Isa Governador Valadares","35043520",false,2020-04-05 00:00:00
+3f2b4039-e75b-4752-ac66-93085d142dc9,"Sara Nunes Januario","Sara",,"33988627890","5365359658","Rua Goitacazes 266 Kennedy Governador Valadrs","35051260",true,1981-12-30 00:00:00
+7cb17a59-9ff4-44c8-a138-857a8e35cf29,"Antonio Rodrigues Neto","Antonio",,"33998296180","6979190644","Rua Jose Carlos Pereira 330 Apto 406","35032240",false,1944-06-28 00:00:00
+1f76f2ad-852d-48b1-a364-d87546a18bac,"Cleria Maria Rezende Araujo","Cleria",,"33991802754","5457578607","Rua Santos Dumont 1117 Bairro De Lourdes","35032460",true,1965-07-04 00:00:00
+4070cd69-6c47-4670-ac45-bf66e4d1dc15,"Yasmin Christine Eliones Campos","Yasmin",,"33999779392","14859656679","Rua Thieres Pereira Daflon 220 Morada Do Vale 220","35061000",true,2010-10-17 00:00:00
+439c23ab-b5f6-4f7f-bc82-cc89c3d21f8a,"Arthur Gomes De Brito Gross","Arthur",,"33991291416","14075838676","Rua Uruguaina 347 Bairro Jardim Perola","35051510",false,2004-06-03 00:00:00
+b7304329-87fd-4a13-bc3c-c22e935eb1a2,"Mauricio Geraldo Barbosa Junior","Mauricio",,"33999040536","9210327659","Rrua Ranulfo Alvares 251 Vila Isa","35044220",false,1988-12-12 00:00:00
+45b837c4-ed2b-46ed-85ed-cc957bc54824,"Enzo Andrade De Castro","Enzo",,"33991372583","70336712618","Rua Colombia 108 Nova Vila Bretas",,false,2016-11-09 00:00:00
+70aa8aa3-fc2e-42e4-ba79-76091fdd0446,"Laura Lino Marnho","Laura",,"33998048468","14186369674","Rua Canela 78 Jardim Ipe",,true,2013-11-18 00:00:00
+485ea55b-b69b-43a1-8114-0c3522c097b6,"Jonas Da Silva Andrade","Jonas",,"33988545870","14805001607","Rua Argentina 221 Jardim Perola","35051030",false,2015-01-22 00:00:00
+d4951bb3-3820-42a0-bd52-c3f898427095,"Leticia Soares Barbosa","Leticia","","33984243045","15259675681","Rua Curitiba 781 Santa Terezinha","35030100",true,2010-05-03 00:00:00
+a14a32f8-f9aa-400d-9e35-d6a03da92310,"Eros Emanuel Candido Prates","Eros",,"33987330371","12407379632","Rua Darcy Martins Dos Santos Santa Paula","35054650",false,2009-06-28 00:00:00
+986135b9-4dbd-4588-8cd2-fcb9b1ef8a88,"Benjamim Batista Oliveira Teixeira Dos Reis","Benjamim",,"3399213759","18365473666","Rua Israel Pinheiro 4281 Lourdes","35032180",false,2020-04-17 00:00:00
+37a34de3-38db-48f8-9a94-1b159cd1f850,"Ligia Oliveira Correia","Ligia",,"33999253997","13599108676","Rua Bahia 216 Bairro De Lourdes","35030030",true,2004-11-09 00:00:00
+49595acb-62c8-4e7b-8e99-a433240d2eb7,"Theo Rezende Gomes De Oliveira","Theo","","3391628652","17089944670","Rua Quintliano Costa 309","35032630",false,2018-06-02 00:00:00
+29a5691c-cdbd-4d2a-9d0b-6b9d2ff34dfa,"Gabriel Rober Alves Dos Santos","Gabriel",,"33999845323","14705479610","Rua D 52 Sao Jose","35050300",false,2003-08-28 00:00:00
+05d679b1-5728-4353-90b8-dcd624095b62,"Gabriel Freitas Da Silva","Gabriel",,"33988015129","9434113601","Rua Borba Gato 472 Vera Cruz","35041070",false,2003-09-23 00:00:00
+514c0968-04b4-4613-a1f9-1b387d806bcb,"Allan Barbosa Nunes","Allan",,"33991187876","10552443603","Rua Antonio Dias Adorno 81 A","35045040",false,1993-12-28 00:00:00
+849b552c-f120-40a8-9e84-0aedfdcb424a,"Analia De Fatima Calixta Prates","Analia",,"33999304455","777561697","Avenida Copacabana 230 Vila Do Sol","35041150",true,1975-03-16 00:00:00
+f3931edf-d6d5-4bd0-b9c0-19ec1e042dcc,"Darcy Pereira De Laia","Darcy",,"33988606613","5958231650","Jardim Ipe Rua Paraju 172","35043440",false,1982-12-10 00:00:00
+c875d90f-7264-4060-b897-6c736f8bb2e3,"Karoline Oliveira Martins","Karoline",,"33988257448","14647928608","Rua Geraldo Daflon Faria 398 Santa Rosa De Lima","35059690",true,2002-08-25 00:00:00
+0cf1e3c4-0133-4c48-8817-f61fbf6f2359,"Marly Costa Alves","Marly",,"33988198377","633256676","Rua Pedro Lessa 1622","35030440",true,1959-04-13 00:00:00
+4f9c8673-60cc-45fb-9636-225bd8ad2f54,"Isabelle Soares Rocha","Isabelle",,"33987174541","14871249611","Rua Adrualdo Monte 272 Sir Governador Valadares","35024410",true,2004-08-24 00:00:00
+60340541-e931-46fd-8e7e-aba7f8c6699e,"Paulo Luiz Oliveira","Paulo",,"33999979698","85756873600","Avenida Francisco Gomes Neto 110",,false,1974-11-13 00:00:00
+9ce78a4c-1b48-410a-a198-2a9794f06a05,"Stella Baia Ramos De Andrade","Stella",,,"17160242696","Avenida A ,68","35042847",true,2018-06-25 00:00:00
+b0b33deb-c064-4aa2-b9b8-1d0bb82d3b23,"Sofia Ramos Silva Vieira","Sofia","","33999121931","17638809661","Rua T 35 Palmeiras","35052365",true,2016-03-28 00:00:00
+77b22e02-5307-4410-9157-9436b6c6aff7,"Augusto Nunes Ramalho","Augusto",,"33991476266","18681100602","Rua Nadir Nunes Leite 407 Vila Bretas","35032640",false,2021-01-25 00:00:00
+c742b89a-74b8-4b99-807b-3efc70d6487f,"Clara Figueiredo Fonseca","Clara",,"33999899818","12786363667","Rua Professor Lucas Souza Da Silva 208 Vale Verde",,true,1996-06-24 00:00:00
+5d2ede2a-706a-4941-ac5c-0c56df49605f,"Rafael Pereira Sales","Rafael",,"33988063374","15331082696","Rua Dois 54 Vale Pastoril Governador Valadares","35046058",false,2004-06-01 00:00:00
+abbb6af4-d69a-49af-b9b2-874b4bb3821e,"Gael Victor Reis Leite","Gael","","33999020496","17721133602","Rua Pau Brasil 251 Cidade Nova Governador Valadares","35063002",false,2019-03-14 00:00:00
+b6b458f6-72a7-46e4-a81d-be22638c7e12,"Emerson Da Silva Souza","Emerson",,"3398298176","6849629697","Rua Edgard Fernandes 315 Castanheiras","35054753",false,1985-09-07 00:00:00
+2b9432e8-59ba-4276-95a7-5a89fca406a3,"Renata Alves Soares","Renata",,"33988728435","8927124650","Rua Santa Izabel 501 Mae De Deus","35052060",true,1988-08-15 00:00:00
+e40369fc-0433-4916-878c-56a1a983ef15,"Jeane De Fatima Alves De Oliveira","Jeane",,"33999461388","9375674690","Rua Projetada 112","35022622",true,1988-02-23 00:00:00
+9e692f8f-a89a-40ec-91a7-6707f4357bb5,"Felipe Augusto Da Silva","Felipe",,"33998233230","8161030626","Rua Roque Gonçalves Da Silva 110 Castenheiras","35054852",false,1989-06-05 00:00:00
+2200f737-ae0e-4ace-9139-4f1576a0d02f,"Maria Izabel Dutra Catalunha","Izabel","belmaevo@gmail.com","33999610891","94136548672","Rua Uruguaiana, 387, Jardim Perola, Cep 3505-510",,true,1948-11-11 00:00:00
+aae1e73d-907b-4cf5-99a0-306a15dbc855,"Zxc 1 Dev","Zxc 1 Dev.","","","","",,false,1948-11-11 00:00:00
+e04ccd06-1bc6-4813-9f4d-404a2bcf1e79,"Zxc 2 Dev","Zxc 2 Dev.","","","","",,false,1948-11-11 00:00:00
+381276f8-56f6-43bb-82c5-d1aff32728f3,"Katia Soares Figueiredo Reis","Katia","","33991407694","04585851658","Rua Mogno 243 Santo Agostinho Gv",,true,2011-03-22 00:00:00
+b3bdbb39-e8b0-4c70-99e1-295948799c48,"Celso Malosto","Celso","","33988011101","83733264649","Rua Azaleias 341 Vale Do Sol 35042784 Gv",,false,1972-02-10 00:00:00
+91d58acb-21a9-4caf-9dc3-12006eefc77c,"Gabriel Catalunha Botelho","Catalunha","","33988053701","13846381640","Rua Uruguaina 387 Jardim Perola Gv 35051510",,false,2003-03-01 00:00:00
+1661d775-5e30-40fc-a631-77307b316d89,"Luiza Delmaschio Henriques","Luiza","","33999652527","11683170610","Rua Trinta E Quatro 447 Ilha Dos Araujos 35020780 Gv",,false,2007-06-13 00:00:00
+1fd7ca9d-47de-4d2d-b583-0c063eedbd54,"Rafael Gonçalves Domingues","Rafael","","33998510291","16556790664","Avenida Wenceslau Braz 44 Santa Rita Cep 35040570",,false,2017-10-23 23:00:00
+5bb3fe28-cf15-4e13-bf3d-15bdda86a2a6,"Davi Damascio Coimbra","Davi","","33998267515","18568555624","Rua Quatro 545 Cidade Jardim 35047025 Gv",,false,2020-10-06 00:00:00
+1cc6f291-739e-4a6c-ac07-b9b39abc8ff0,"Nilde Antunes Almeida","Nilde","","33991471539","45731420610","Avenida Rio Doce 921 Ilha Dos Araujos 35020500",,true,1945-04-11 00:00:00
+54418474-78f1-46ff-a191-366d12f22156,"Glauce Silva Vieira","Glauce","","33988450062","03845016647","Rua Da Fraternidade 119 Apto 101 35045130 Gv",,true,1980-01-24 00:00:00
+5ba1ac37-31f7-42f0-98aa-16778fbae322,"Vitoria Silva Vieira","Vitoria","","33988450062","70085449601","Rua Da Fraternidade 119 Apto 101 Vila Rica 35045130 Gv",,false,2005-05-04 00:00:00
+e5b6d3e2-d3cf-4c1f-b662-85c921df4786,"Diogo De Oliveira Pinto","Diogo","rodcij79@hotmail.com","33999064060","14832768646","Rua Israel Pinheiro 777 Universitario 35020220 Gv",,true,2015-02-18 23:00:00
+1795c5ad-c68b-4cd9-a28d-0118b7fb9174,"Diogo De Oliveira Pinto","Diogo","","33999064060","14832768646","Rua Israel Pinheiro Universitario 35020220",,false,2015-02-18 23:00:00
+8d2db88f-e899-4050-bce3-435bc40fbffa,"Rafael Gonçalves Domingues","Rafael","","33998510291","16556790664","Avenida Wenceslau Braz 44",,false,2017-10-23 23:00:00
+74541930-a628-4ce7-b81f-51caf06b7811,"Benicio Gomes De Souza","Benicio","","3398399601","","Rua Agostinho Moreira Lima 340 Frei Inocencio 35112000",,false,2021-05-05 00:00:00
+90045583-191c-410b-845e-46fc81ae6495,"Gael Gomes De Souza","Gael","","3398399601","18794428689","Rua Agostinho Moreira Lima 340 Frei Inocencio Centro 35112000",,false,2021-05-05 00:00:00
+3f1104a6-c66a-4441-a754-86d037b7763c,"Anderson Matoso Siqueira Tenorio","Anderson","","33999614563","15331972616","Rua Quatro 221 35045576 Gv",,false,2015-12-19 23:00:00
+d2ee9e3c-0776-4cb1-8a7a-d9efe20ceb22,"Fabio Almeida Astenreiter","Fabio","","33991119488","17707062671","Rua Araxa 57 Apto 301 Loudes 35032 100 Gv",,false,2019-03-18 00:00:00
+d3a80f6f-3028-4639-9661-a379ee98e132,"Valentina Gonçalves Rosa","Valentina","","33984476868","16346498690","Rua Rodolfo De Abreu 407 Bairro Sao Paulo 35030590 Gv",,false,2017-06-29 00:00:00
+424ba9b6-add1-42a7-ad7d-2b521e894865,"Arthur Sousa Ribeiro Militao","Arthur","","31999524712","17036813636","Rua H 327 Vale Verde 35059590 Gv",,false,2018-05-08 00:00:00
+167987fd-605b-4ef1-b465-1b56f6ab24c3,"Gabriel De Paula Barbosa","Gabriel","","3391201426","15336960632","Rua Paineiras 72 Jardim Ipe Gv",,false,2015-12-29 23:00:00
+d58d4871-6716-45c1-a150-613e2e4e613d,"Vanete Aparecida Lima Mendes","Vanete","","33998065048","55952755615","Rua Mogno 156 Santo Agostinho Gv",,false,1967-05-30 00:00:00
+195a0706-b9cd-4f0c-83a9-3a31be4e9c5b,"Marcio Rogerio Aniceto Batalhao","Marcio","","339826319","89680618668","Rua Dublin 65 A Gra Duquesa 35057160",,false,1971-11-15 00:00:00
+bc28e306-a858-4869-a1c6-14d2f84088b2,"Eduarda Haussman De Oliveira","Eduarda","","33987333391","15489008695","Rua Quarta Avenida 130 Apto 101 Bairro Jose Ferreira De Queiroz Conselheiro Pena 35240000",,false,2016-03-19 00:00:00
+125624fd-22a9-4cf0-b90a-21380f138ab1,"Pablo Milhorelli Moraes","Pablo Milhorelli","","33988187511","01311375651","Rua Matatias Gomes 308 Sao Pedro 35020340 Gv",,false,1979-10-23 00:00:00
+91d9fb76-0a55-4c04-8898-4c28f73b8c56,"Rosilene Filomena Pimenta Dos Santos","Rosilene","","33988129075","75910977687","Rua Whasghiton 1342 Santa Rita Gv",,false,1965-12-11 00:00:00
+d4853560-7b0c-4428-8fd3-25332e4b8913,"Geraldo Benevides Fernandes","Geraldo","","33988052417","32804237672","Rua Verona 23 Gra Duquesa 35057740",,false,1960-01-26 00:00:00
+7ad5c48b-6c9d-4239-9f38-ca9693ada4a7,"Yan Nascimento Esteves","Yan","","3399879754","14570404685","Rua Israel Pinheiro 644 Sao Pedro 35020220",,false,2014-08-04 00:00:00
+f6109474-2417-42ff-865b-e7bc263b5047,"Cecilia Da Silva Leal","Cecilia","","33993800603","16145058617","Rua Treze De Maio 527 Apto 202 Bairro Sao Paulo 35030765 Gv",,false,2014-03-21 00:00:00
+95d09ce2-6098-4cc8-ac93-db3725b9bef9,"Alcirlene Jeremis Gome Fernandes","Alcirlene","","3398805417","83713921687","Rua Verona 23 Gra Duquesa 35057740 Gv",,false,1969-08-05 00:00:00
+d87fab1a-fee5-4e5b-8d2c-e1ef237d3c69,"Jose Vantuil Dos Santos","Jose Vantuil","","33988164428","68942486649","Av Uberaba 210 Esperança 35058380 Gv",,false,1967-07-18 00:00:00
+9bb071c9-e5ce-48fa-be93-63ecd8589d4f,"Paciente Teste Domingo","Pac Teste","bafbb@gmail.com","333333333","06648123680","Dfgdgfegqeg",,true,2023-07-03 00:00:00
+ff392617-144e-476c-bed4-6fccd337c2d2,"Gesica Fonseca De Oliveira","Gesica","","33984150075","05573493620","Rua Argentina 153 Bairro Naçoes Frei Inocençio 35112000",,false,1981-07-22 00:00:00
+9f63790c-fc54-40f3-b585-a9f3da82570f,"Gildezio Alves Mourao Junior","Gildezio","","33999750896","01651814600","Rua Vinhatico 71 Apto 302 Santo Agostinho 35065013 Gv",,false,1989-04-19 00:00:00
+0be361eb-8dcc-4c97-b1a7-f33ff75aba5d,"Gildezio Alves Mourao Junior","Gildezio","","33999750896","01651814600","Rua Vinhatico 71 Apto 302 Santo Agostinho 35065013 Gv",,false,1989-04-19 00:00:00
+d8725f8a-8ab1-4d43-bfb6-286520e338aa,"Wildslane Penha Diogo Totaro Lopes","Wildslane","","31998765350","10363413642","Rua Custodio Alves De Carvalho 209 Caravelas 35039054 Gv",,false,1995-04-22 00:00:00
+57d2d7f6-87d9-47a3-aa09-c388f6352a08,"Emanuely Ribeiro Dos Santos","Emanuely","","3399778331","02158320605","Rua Juiz Joao Costa 3156 Vila Breta 35032270 Gv",,false,2007-08-18 00:00:00
+ec2531ad-7bbb-456c-bc98-f1fefadcd8a1,"Perola Vitoria Moreira Rodrigues Da Silva","Perola","","33988320301","18027178622","Rua Escumilha 66 Turmalina 35052806 Gv",,false,2019-09-04 00:00:00
+142ab83f-9551-49a3-87fd-c2865002226d,"Luiz Miguel Pereira Medeiros","Luis Miguel","","33987078952","15481299682","Rua T 492 Bairro Sao Jose Capitao Andrade 35123000",,false,2016-02-23 00:00:00
+39a62c1e-7df9-4c3a-9190-5f1c667e7c34,"Andre Lucas Nazareth","Andre","","33988020159","16249320610","Rua Benjamin Constant 671 Centro Gv",,false,2017-05-10 00:00:00
+69f10ac4-4135-47b8-85e0-f5e84562d498,"Maysa Angelo De Paula","Maysa","","33991232929","14663038670","Rua Sapucai 244 Jardim Ipe 35043540 Gv",,false,2014-10-11 00:00:00
+d7b9bac8-3969-426b-8eff-7654a6ca5eb7,"Pierre De Brito Ferreira","Pierre","","33999280710","17487955621","Rua Medina Maria 36 Serria Periquito 3511000",,false,2018-12-04 23:00:00
+b04c520d-1bc2-499d-b606-19e54649edeb,"Leticia Sabino Da Silva","Leticia","","33987400329","16852384675","Rua Nelly Vieira 410",,false,2018-02-18 00:00:00
+536b9beb-a33e-4ed0-bebc-10bc7dfa7d1e,"Gabriel Bispo De Assunçao Dourado","Gabriel Dourado","","33984616732","15069905686","Rua Antonio Pereira Campos 296 Parque Ibituruna 35044760 Gv",,false,2015-07-01 00:00:00
+641e3ae5-527b-4371-8aeb-fa9809b73444,"Pedro Henrique Pimenta Almeida","Pedro","","33998636308","70142646644","Rua Engenheiro Alvaro Siqueira 155 Casa A 35053180 Gv",,false,2010-03-10 00:00:00
+404467f9-db1f-4ed6-a6d0-046c9f3c6d0f,"Edgard Nunes De Almeida","Edgard","","33999567141","03721030656","Rua Trinta E Um 158 Santos Dumont I 35022230 Gv",,false,1978-12-06 00:00:00
+f8149b91-c52e-4238-8e97-6e24b9835779,"Izabel Cristina Mota Aniceto","Izabel","","33998262319","01393445608","Rua Dublin 65 A Gra Duquesa 35057160 Gv",,false,1979-09-15 00:00:00
