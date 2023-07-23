@@ -41,3 +41,6 @@ Desta forma é impossível de ler estas variáveis pois ficam a nivel de compila
 Como este projeto usa o build nao esqueca de ativar sempre com
 $ 
 dart run build_runner watch -d
+
+
+update user_profile set nickname ='abc',phone='63992304757' where email='catalunha.mj@gmail.com';
