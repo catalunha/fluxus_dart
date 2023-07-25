@@ -1,7 +1,7 @@
 import 'dart:io';
 
 import 'package:fluxus_dart/init_b4a.dart';
-import 'package:fluxus_dart/user_profile/user_profile_action_01.dart';
+import 'package:fluxus_dart/supabase/migrate_procedure.dart';
 
 void main(List<String> arguments) async {
   // final isInitialized = await initB4AFluxus();
@@ -17,7 +17,7 @@ void main(List<String> arguments) async {
   // patientFluxusToJson();
   // patientJsonToFluxus2();
   // sharedAction01();
-  userProfileAction01();
+  // userProfileAction01();
   // await attendanceAction01();
   // await eventAction01();
   // activityAction01();
@@ -25,4 +25,5 @@ void main(List<String> arguments) async {
   // await therapyAction01();
   // overbook();
   // migratePatient();
+  migrateProcedure();
 }

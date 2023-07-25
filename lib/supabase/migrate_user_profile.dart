@@ -3,8 +3,8 @@ import 'dart:io';
 import 'package:intl/intl.dart';
 import 'package:parse_server_sdk/parse_server_sdk.dart';
 
-import 'entity/user_profile_b4a.dart';
-import 'entity/user_profile_entity.dart';
+import '../user_profile/entity/user_profile_b4a.dart';
+import '../user_profile/entity/user_profile_entity.dart';
 
 void userProfileAction01() async {
   print('+++ userProfileAction01...');

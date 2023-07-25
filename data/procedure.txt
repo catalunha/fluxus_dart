@@ -1,0 +1,53 @@
+code,name,description,expertise_id
+3,Acup isolada,"Acupuntura isolada. Obs.: sessao isolada",27c014e3-a948-4c01-b6ed-13357858fc92
+4,Acup mensal,"Acupuntura mensal. Obs.: 1 x semana (4 atend mensal)",27c014e3-a948-4c01-b6ed-13357858fc92
+5,Acup mensal continuação,"Acupuntura mensal continuação. Obs.: 1 x semana (4 atend mensal)",27c014e3-a948-4c01-b6ed-13357858fc92
+61010170,Av Desenv ABA IPSM,"Avaliação do Desenvolvimento para Terapia ABA",2064feda-42ac-4ac5-b725-79070a04c59e
+18,Av Inic TO,"Terapia Ocupacional avaliação. Obs.: Avaliação + primeira sessão",40b53dbc-aafb-4c8b-a067-55bc1b21126a
+16,Av Neuropsic 3 anos parcelado,"Avaliação Neuropsicológica abaixo 3 anos idade. Obs.: parcelado 3xcartão (3x400,00)",2064feda-42ac-4ac5-b725-79070a04c59e
+17,Av Neuropsic 3 anos à  vista,"Avaliação Neuropsicológica abaixo 3 anos idade. Obs.: à vista",2064feda-42ac-4ac5-b725-79070a04c59e
+11,Av fono ,"Fonoaudiologia avaliação. Obs.: Avaliação + primeira sessão",7e2566c4-77c3-4a01-b9ec-7c2d3f49434e
+66010012,Av inic Nutrição IPSM,"Avaliacao com nutricionista",0e673445-41a1-449e-89e9-659a5a24f101
+63010011,Av inic TO IPSM,"Avaliação inicial - maximo de uma entrevista pelo mesmo terapeuta ocupacional",40b53dbc-aafb-4c8b-a067-55bc1b21126a
+62010026,Av inic fono IPSM,"Consulta com fonoaudiólogo",7e2566c4-77c3-4a01-b9ec-7c2d3f49434e
+61010073,Av neuropsic IPSM,"Avaliação neuropsicologica",2064feda-42ac-4ac5-b725-79070a04c59e
+14,Av neuropsic a vista,"Avaliação Neuropsicológica. Obs.: à vista",2064feda-42ac-4ac5-b725-79070a04c59e
+251,Av neuropsic continuação,"Av neuropsicologico continuação após pagamento à vista",2064feda-42ac-4ac5-b725-79070a04c59e
+15,Av neuropsic parcelado,"Avaliação Neuropsicológica. Obs.: parcelado 3xcartão (3x500,00)",2064feda-42ac-4ac5-b725-79070a04c59e
+3010023,Bioimped nutri IPSM,"Bioimpedanciometria (ambulatorial) exame",0e673445-41a1-449e-89e9-659a5a24f101
+25010123,Cons fisio IPSM,"Consulta com fisioterapeuta",8ecc88d7-1843-42f6-8111-676e8ad39272
+10,Curativo,"Enfermagem curativo (troca/laser/ozônio). Obs.: Unidade (normalmente semanal)",27c014e3-a948-4c01-b6ed-13357858fc92
+61010014,Entr inic psico IPSM,"Entrevista inicial - 01(uma) entrevista pelo mesmo psicologo",2064feda-42ac-4ac5-b725-79070a04c59e
+61010162,Entrev ABA IPSM,"Entrevista inicial em Terapia ABA",2064feda-42ac-4ac5-b725-79070a04c59e
+63020041,Estimulação TO IPSM,"Estimulacao e treino cinésio-ocupacional e sensorio percpto-motor",40b53dbc-aafb-4c8b-a067-55bc1b21126a
+25020234,Fisio TEA,"Assistência fisioterapêutica ambulatorial ao paciente com disfunção decorrente de alterações do sistema nervoso central e/ou periférico",8ecc88d7-1843-42f6-8111-676e8ad39272
+6,Fisio avaliação,"Fisioterapia avaliação. Obs.: Sessão",8ecc88d7-1843-42f6-8111-676e8ad39272
+7,Fisio neuro sessão,"Fisioterapia neuropediatrica. Obs.: Sessão",8ecc88d7-1843-42f6-8111-676e8ad39272
+62020102,Fono disturbio na fala IPSM,"Terapia fonoaudiologica ambulatorial em paciente com disturbios da fala.",7e2566c4-77c3-4a01-b9ec-7c2d3f49434e
+62020072,Fono distúrbio auditivo IPSM,"Terapia fonoaudiologica ambulatorial em paciente com disturbios do sistema auditivo.",7e2566c4-77c3-4a01-b9ec-7c2d3f49434e
+62020064,Fono emissão natural da voz IPSM,"Terapia fonoaudiologica ambulatorial em paciente com alteracões da emissao natural da voz",7e2566c4-77c3-4a01-b9ec-7c2d3f49434e
+12,Fono sessão,"Fonoaudiologia sessao. Obs.: Sessão",7e2566c4-77c3-4a01-b9ec-7c2d3f49434e
+62020080,Fono sistema vestibular IPSM,"Terapia fonoaudiologica ambulatorial em paciente com disturbios do sistema vestibular",7e2566c4-77c3-4a01-b9ec-7c2d3f49434e
+23,Interv neuroped pct,"Intervenção Neuropedagógica. Pacote Mês com 4 atendimentos, atendimento semanal",6952e185-85f4-4e33-b8b8-5cc6ce3ef3d6
+22,Interv neuroped sessão,"Intervenção Neuropedagógica Sessão",6952e185-85f4-4e33-b8b8-5cc6ce3ef3d6
+2,Nutri bioimped,"Nutrição - Bioimpedância. Obs.: 1 x semana",0e673445-41a1-449e-89e9-659a5a24f101
+1,Nutri quinzenal,"Nutrição - Dieta. Obs.: Quinzenal",0e673445-41a1-449e-89e9-659a5a24f101
+61020010,Orientação de pais IPSM,"Orientação de pais e responsável legal",2064feda-42ac-4ac5-b725-79070a04c59e
+25,Psico ABA ,"Psico ABA",2064feda-42ac-4ac5-b725-79070a04c59e
+61020028,Psico casal IPSM,"Psicoterapia de casal - maximo de 01-(uma) Sessão semanal",2064feda-42ac-4ac5-b725-79070a04c59e
+61020036,Psico familiar IPSM,"Psicoterapia familiar semanal - maximo 01- (uma) sessão semanal",2064feda-42ac-4ac5-b725-79070a04c59e
+61020052,Psico grupal IPSM,"Psicoterapia grupal - maximo 01-(uma)- Sessão semanal por paciente",2064feda-42ac-4ac5-b725-79070a04c59e
+61020117,Psico ind prorrogação IPSM,"Psicoterapia individual - prorrogação",2064feda-42ac-4ac5-b725-79070a04c59e
+24,Psico indiv,"Psicoterapia Individual adulto",2064feda-42ac-4ac5-b725-79070a04c59e
+61020044,Psico indiv IPSM,"Psicoterapia individual - maximo 01- (uma) sessão semanal",2064feda-42ac-4ac5-b725-79070a04c59e
+61010111,Psico on line IPSM,"Atendimento psicológico em plataforma on-line",2064feda-42ac-4ac5-b725-79070a04c59e
+61020125,Psico ped prorrogação primeira sessão IPSM,"Primeira sessão de prorrogação de psicopedagogia",2064feda-42ac-4ac5-b725-79070a04c59e
+61010065,Psicodiagnóstico IPSM,"Psicodiagnóstico completo com utilização de testes",2064feda-42ac-4ac5-b725-79070a04c59e
+61020087,Psicoped IPSM,"Psicopedagogia - maximo de 01 (uma) sessão semanal",2064feda-42ac-4ac5-b725-79070a04c59e
+61020133,Psicoped prorrogação IPSM,"Psicopedagogia- prorrogação",2064feda-42ac-4ac5-b725-79070a04c59e
+61020109,Psicoped prorrogação primeira sessão IPSM,"Primeira sessão de prorragacao de psicoterapia individual",2064feda-42ac-4ac5-b725-79070a04c59e
+21,Ref escolar 2x semana,"Reforço escolar 2xsemana. Obs.: valor mensal",6952e185-85f4-4e33-b8b8-5cc6ce3ef3d6
+20,Ref escolar 3x semana,"Reforço escolar 3xsemana. Obs.: valor mensal",6952e185-85f4-4e33-b8b8-5cc6ce3ef3d6
+19,Sessão TO,"Terapia ocupacional sessão. Obs.: sessão",40b53dbc-aafb-4c8b-a067-55bc1b21126a
+61020168,Terapia ABA IPSM,"Atendimento em Terapia ABA",2064feda-42ac-4ac5-b725-79070a04c59e
+61020176,Terapia ABA prorrog IPSM,"Prorrogação – Atendimento em Terapia ABA",2064feda-42ac-4ac5-b725-79070a04c59e
