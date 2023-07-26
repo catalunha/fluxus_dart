@@ -1,0 +1,124 @@
+text,type,options,is_required,is_active,group_id
+"A criança chora facilmente?",simple,"[""Sim"", ""Não""]",false,true,90d21d07-bfe3-4a21-b585-a9fe9af100f7
+"A criança foi planejada?",simple,"[""Sim"", ""Não""]",false,true,dbd5b5c9-184b-4681-8563-8d1347ba0eaf
+"A criança pratica esportes?",simple,"[""Sim"", ""Não""]",false,true,90d21d07-bfe3-4a21-b585-a9fe9af100f7
+"A mãe usou medicamentos na gravidez?",simple,"[""Sim"", ""Não""]",false,true,dbd5b5c9-184b-4681-8563-8d1347ba0eaf
+"A união conjugal aconteceu em virtude da gravidez?",simple,"[""Sim"", ""Não""]",false,true,dbd5b5c9-184b-4681-8563-8d1347ba0eaf
+"Aceita escovar os dentes com pasta?",simple,"[""Sim"", ""Não""]",false,true,aa47c691-ee6d-4441-8d38-49e5b64fb657
+"Adaptou com papinhas?",simple,"[""Sim"", ""Não""]",false,true,90861630-c3f7-4915-af91-5718e032d49d
+"Ajuda em alguma tarefa em casa?",simple,"[""Sim"", ""Não""]",false,true,54967b96-f0da-4638-81cd-f5efd9ccafde
+"Anda na ponta dos pés?",simple,"[""Sim"", ""Não""]",false,true,6abde216-05b8-4399-9c82-9b6243637d7f
+"Anda saltando?",simple,"[""Sim"", ""Não""]",false,true,6abde216-05b8-4399-9c82-9b6243637d7f
+"Arrisca-se facilmente?",simple,"[""Sim"", ""Não""]",false,true,54967b96-f0da-4638-81cd-f5efd9ccafde
+"Balbuciou antes de um ano?",simple,"[""Sim"", ""Não""]",false,true,5c79c52e-7509-44d8-86f2-ed013d6678be
+"Brinca agitado e inquieto?",simple,"[""Sim"", ""Não""]",false,true,6abde216-05b8-4399-9c82-9b6243637d7f
+"Brinca em praças e playgrows nos brinquedos de altura?",simple,"[""Sim"", ""Não""]",false,true,6abde216-05b8-4399-9c82-9b6243637d7f
+"Cai da cama?",simple,"[""Sim"", ""Não""]",false,true,9bd470aa-6174-45b9-95d5-ecdc333aeab6
+"Com qual idade aconteceu o desfralde noturno?",numeric,"[]",false,true,9bd470aa-6174-45b9-95d5-ecdc333aeab6
+"Come frutas?",simple,"[""Sim"", ""Não""]",false,true,90861630-c3f7-4915-af91-5718e032d49d
+"Come legumes cozidos?",simple,"[""Sim"", ""Não""]",false,true,90861630-c3f7-4915-af91-5718e032d49d
+"Compartilha objetos?",simple,"[""Sim"", ""Não""]",false,true,82babeea-b0a6-4259-b8ce-a0e69a1150dd
+"Compreende o que lê?",simple,"[""Sim"", ""Não""]",false,true,5c79c52e-7509-44d8-86f2-ed013d6678be
+"Construiu frases antes de tres anos?",simple,"[""Sim"", ""Não""]",false,true,5c79c52e-7509-44d8-86f2-ed013d6678be
+"Conversa com brinquedos e conversa sozinho(a) quando está brincando?",simple,"[""Sim"", ""Não""]",false,true,82babeea-b0a6-4259-b8ce-a0e69a1150dd
+"Convive com outras crianças na familia?",simple,"[""Sim"", ""Não""]",false,true,82babeea-b0a6-4259-b8ce-a0e69a1150dd
+"Convive com parentes?",simple,"[""Sim"", ""Não""]",false,true,82babeea-b0a6-4259-b8ce-a0e69a1150dd
+"Costuma reproduzir a brincadeira de outra criança?",simple,"[""Sim"", ""Não""]",false,true,82babeea-b0a6-4259-b8ce-a0e69a1150dd
+"Costuma terminar o que inicia?",simple,"[""Sim"", ""Não""]",false,true,54967b96-f0da-4638-81cd-f5efd9ccafde
+"Deixa brincadeiras pela metade e muda para outra?",simple,"[""Sim"", ""Não""]",false,true,54967b96-f0da-4638-81cd-f5efd9ccafde
+"Demonstra medos ou terror noturno?",simple,"[""Sim"", ""Não""]",false,true,9bd470aa-6174-45b9-95d5-ecdc333aeab6
+"Derruba coisas com frequência?",simple,"[""Sim"", ""Não""]",false,true,6abde216-05b8-4399-9c82-9b6243637d7f
+"Deseja a presença de outras crianças?",simple,"[""Sim"", ""Não""]",false,true,82babeea-b0a6-4259-b8ce-a0e69a1150dd
+"Desequilibra com facilidade?",simple,"[""Sim"", ""Não""]",false,true,6abde216-05b8-4399-9c82-9b6243637d7f
+"Desfraldou antes de três anos?",simple,"[""Sim"", ""Não""]",false,true,6abde216-05b8-4399-9c82-9b6243637d7f
+"Dorme a noite toda?",simple,"[""Sim"", ""Não""]",false,true,9bd470aa-6174-45b9-95d5-ecdc333aeab6
+"Dorme de fraldas?",simple,"[""Sim"", ""Não""]",false,true,9bd470aa-6174-45b9-95d5-ecdc333aeab6
+"Durante a gestação ocorreu anemia?",simple,"[""Sim"", ""Não""]",false,true,dbd5b5c9-184b-4681-8563-8d1347ba0eaf
+"Durante a gestação ocorreu diabetes?",simple,"[""Sim"", ""Não""]",false,true,dbd5b5c9-184b-4681-8563-8d1347ba0eaf
+"Durante a gestação ocorreu herpes?",simple,"[""Sim"", ""Não""]",false,true,dbd5b5c9-184b-4681-8563-8d1347ba0eaf
+"Durante a gestação ocorreu hipertensão arterial?",simple,"[""Sim"", ""Não""]",false,true,dbd5b5c9-184b-4681-8563-8d1347ba0eaf
+"Engatinhou?",simple,"[""Sim"", ""Não""]",false,true,6abde216-05b8-4399-9c82-9b6243637d7f
+"Entende lateralidade (alto/baixo, direito/esquerdo)?",simple,"[""Sim"", ""Não""]",false,true,6abde216-05b8-4399-9c82-9b6243637d7f
+"Escolhe a textura dos alimentos?",simple,"[""Sim"", ""Não""]",false,true,90861630-c3f7-4915-af91-5718e032d49d
+"Escreve cursivo?",simple,"[""Sim"", ""Não""]",false,true,6abde216-05b8-4399-9c82-9b6243637d7f
+"Esquece coisas com facilidade?",simple,"[""Sim"", ""Não""]",false,true,54967b96-f0da-4638-81cd-f5efd9ccafde
+"Evita brincar com coisas que sujam?",simple,"[""Sim"", ""Não""]",false,true,aa47c691-ee6d-4441-8d38-49e5b64fb657
+"Existe parentesco entre os pais?",simple,"[""Sim"", ""Não""]",false,true,dbd5b5c9-184b-4681-8563-8d1347ba0eaf
+"Fala palavras erradas?",simple,"[""Sim"", ""Não""]",false,true,5c79c52e-7509-44d8-86f2-ed013d6678be
+"Falou palavras claras antes de dois anos?",simple,"[""Sim"", ""Não""]",false,true,5c79c52e-7509-44d8-86f2-ed013d6678be
+"Faz imitações de animais com frequência?",simple,"[""Sim"", ""Não""]",false,true,82babeea-b0a6-4259-b8ce-a0e69a1150dd
+"Faz trocas de letras na fala?",simple,"[""Sim"", ""Não""]",false,true,5c79c52e-7509-44d8-86f2-ed013d6678be
+"Faz uso de medicação?",simple,"[""Sim"", ""Não""]",false,true,90d21d07-bfe3-4a21-b585-a9fe9af100f7
+"Faz xixi na cama?",simple,"[""Sim"", ""Não""]",false,true,9bd470aa-6174-45b9-95d5-ecdc333aeab6
+"Fica com os pés descalços com facilidade?",simple,"[""Sim"", ""Não""]",false,true,aa47c691-ee6d-4441-8d38-49e5b64fb657
+"Fica em locais públicos tranquilamente?",simple,"[""Sim"", ""Não""]",false,true,82babeea-b0a6-4259-b8ce-a0e69a1150dd
+"Fica sempre perto de adultos?",simple,"[""Sim"", ""Não""]",false,true,54967b96-f0da-4638-81cd-f5efd9ccafde
+"Filho(a) biológico da mãe?",simple,"[""Sim"", ""Não""]",false,true,dbd5b5c9-184b-4681-8563-8d1347ba0eaf
+"Filho(a) biológico do pai?",simple,"[""Sim"", ""Não""]",false,true,dbd5b5c9-184b-4681-8563-8d1347ba0eaf
+"Foi amamentada pela mãe por quantos meses?",numeric,"[]",false,true,90861630-c3f7-4915-af91-5718e032d49d
+"Foi amamentado pela mãe leite materno?",simple,"[""Sim"", ""Não""]",false,true,90861630-c3f7-4915-af91-5718e032d49d
+"Gaguejou?",simple,"[""Sim"", ""Não""]",false,true,5c79c52e-7509-44d8-86f2-ed013d6678be
+"Gosta de objetos que giram?",simple,"[""Sim"", ""Não""]",false,true,aa47c691-ee6d-4441-8d38-49e5b64fb657
+"Gosta de toques como carinho?",simple,"[""Sim"", ""Não""]",false,true,aa47c691-ee6d-4441-8d38-49e5b64fb657
+"Houve aborto?",simple,"[""Sim"", ""Não""]",false,true,dbd5b5c9-184b-4681-8563-8d1347ba0eaf
+"Houve alguma complicação com o bebê ao nascer?",simple,"[""Sim"", ""Não""]",false,true,dbd5b5c9-184b-4681-8563-8d1347ba0eaf
+"Houve atraso na marcha se comparado com outras crianças da idade?",simple,"[""Sim"", ""Não""]",false,true,6abde216-05b8-4399-9c82-9b6243637d7f
+"Houve depressão pos-parto?",simple,"[""Sim"", ""Não""]",false,true,dbd5b5c9-184b-4681-8563-8d1347ba0eaf
+"Há doenças crônicas na criança?",simple,"[""Sim"", ""Não""]",false,true,90d21d07-bfe3-4a21-b585-a9fe9af100f7
+"Há doenças crônicas na família? Se há, descreva brevemente.",text,"[]",false,true,90d21d07-bfe3-4a21-b585-a9fe9af100f7
+"Imita ações ou movimentosdos outros?",simple,"[""Sim"", ""Não""]",false,true,aa47c691-ee6d-4441-8d38-49e5b64fb657
+"Incomoda com barulhos?",simple,"[""Sim"", ""Não""]",false,true,aa47c691-ee6d-4441-8d38-49e5b64fb657
+"Incomoda com claridades?",simple,"[""Sim"", ""Não""]",false,true,aa47c691-ee6d-4441-8d38-49e5b64fb657
+"Já foi alertado por médico, psicólogo ou outro profissional sobre atraso cognitivo?",simple,"[""Sim"", ""Não""]",false,true,54967b96-f0da-4638-81cd-f5efd9ccafde
+"Já foi alertado por médico, psicólogo ou outro profissional sobre atraso na linguagem?",simple,"[""Sim"", ""Não""]",false,true,5c79c52e-7509-44d8-86f2-ed013d6678be
+"Já foi alertado por médico, psicólogo ou outro profissional sobre atraso no desenvolvimento?",simple,"[""Sim"", ""Não""]",false,true,90d21d07-bfe3-4a21-b585-a9fe9af100f7
+"Já recebeu um diagnóstico de transtorno do espectro autista por médico ou outro profissional da saúde ou escola?",simple,"[""Sim"", ""Não""]",false,true,90d21d07-bfe3-4a21-b585-a9fe9af100f7
+"Já recebeu um diagnóstico de transtorno do espectro autista por médico ou outro profissional da saúde?",simple,"[""Sim"", ""Não""]",false,true,5c79c52e-7509-44d8-86f2-ed013d6678be
+"Levanta muito quando senta para comer ou estudar?",simple,"[""Sim"", ""Não""]",false,true,54967b96-f0da-4638-81cd-f5efd9ccafde
+"Mastiga objetos ou brinquedos?",simple,"[""Sim"", ""Não""]",false,true,aa47c691-ee6d-4441-8d38-49e5b64fb657
+"Mostra resistência em muda de rotina?",simple,"[""Sim"", ""Não""]",false,true,54967b96-f0da-4638-81cd-f5efd9ccafde
+"Não mede sua força em carinhos e brincadeiras?",simple,"[""Sim"", ""Não""]",false,true,6abde216-05b8-4399-9c82-9b6243637d7f
+"Opção unica",simple,"[""Sim"", ""Não""]",false,true,f8e0f9c8-1530-42ff-b7f1-ec5fa550649a
+"Parece imaturo nas brincadeiras?",simple,"[""Sim"", ""Não""]",false,true,54967b96-f0da-4638-81cd-f5efd9ccafde
+"Parece tolerante a dor?",simple,"[""Sim"", ""Não""]",false,true,aa47c691-ee6d-4441-8d38-49e5b64fb657
+"Parece tolerante ao frio ou calor?",simple,"[""Sim"", ""Não""]",false,true,aa47c691-ee6d-4441-8d38-49e5b64fb657
+"Percebe as emoções dos outros?",simple,"[""Sim"", ""Não""]",false,true,54967b96-f0da-4638-81cd-f5efd9ccafde
+"Por vezes não atende ao seu nome?",simple,"[""Sim"", ""Não""]",false,true,aa47c691-ee6d-4441-8d38-49e5b64fb657
+"Prefere brincar sozinho?",simple,"[""Sim"", ""Não""]",false,true,82babeea-b0a6-4259-b8ce-a0e69a1150dd
+"Prefere comer lanches e não refeições?",simple,"[""Sim"", ""Não""]",false,true,90861630-c3f7-4915-af91-5718e032d49d
+"Prefere crianças maiores para brincar?",simple,"[""Sim"", ""Não""]",false,true,54967b96-f0da-4638-81cd-f5efd9ccafde
+"Prefere crianças menores para brincar?",simple,"[""Sim"", ""Não""]",false,true,54967b96-f0da-4638-81cd-f5efd9ccafde
+"Prefere sempre o mesmo lanche na merenda da escola?",simple,"[""Sim"", ""Não""]",false,true,90861630-c3f7-4915-af91-5718e032d49d
+"Quantas gestações a mãe teve?",numeric,"[]",false,true,dbd5b5c9-184b-4681-8563-8d1347ba0eaf
+"Que horas dorme?",numeric,"[]",false,true,9bd470aa-6174-45b9-95d5-ecdc333aeab6
+"Queixa dor?",simple,"[""Sim"", ""Não""]",false,true,90d21d07-bfe3-4a21-b585-a9fe9af100f7
+"Recusa alimentos de determinada cor?",simple,"[""Sim"", ""Não""]",false,true,90861630-c3f7-4915-af91-5718e032d49d
+"Residência no mesmo imovel de parente?",simple,"[""Sim"", ""Não""]",false,true,dbd5b5c9-184b-4681-8563-8d1347ba0eaf
+"Resiste em pisar descalço em areia, gramado ou terra?",simple,"[""Sim"", ""Não""]",false,true,aa47c691-ee6d-4441-8d38-49e5b64fb657
+"Resmunga constantemente?",simple,"[""Sim"", ""Não""]",false,true,90d21d07-bfe3-4a21-b585-a9fe9af100f7
+"Respira com boca aberta?",simple,"[""Sim"", ""Não""]",false,true,5c79c52e-7509-44d8-86f2-ed013d6678be
+"Se faz trocas de letras na fala, descreva quais letras",text,"[]",false,true,5c79c52e-7509-44d8-86f2-ed013d6678be
+"Se houve aborto descreva em poucas palavras quantos e se aconteceram antes da criança?",text,"[]",false,true,dbd5b5c9-184b-4681-8563-8d1347ba0eaf
+"Se houve complicação no parto, descreva o fato em poucas palavras.",text,"[]",false,true,dbd5b5c9-184b-4681-8563-8d1347ba0eaf
+"Se usa fraldas, esse uso é contínuo ou evento esporádico?",text,"[]",false,true,6abde216-05b8-4399-9c82-9b6243637d7f
+"Tem dificuldade de encontrar objetos misturados a outros?",simple,"[""Sim"", ""Não""]",false,true,aa47c691-ee6d-4441-8d38-49e5b64fb657
+"Tem hábito de soneca de dia?",simple,"[""Sim"", ""Não""]",false,true,9bd470aa-6174-45b9-95d5-ecdc333aeab6
+"Tem sono agitado a noite?",simple,"[""Sim"", ""Não""]",false,true,9bd470aa-6174-45b9-95d5-ecdc333aeab6
+"Teve dificuldade de alfabetização?",simple,"[""Sim"", ""Não""]",false,true,5c79c52e-7509-44d8-86f2-ed013d6678be
+"Usa as mãos para comer e não talheres?",simple,"[""Sim"", ""Não""]",false,true,90861630-c3f7-4915-af91-5718e032d49d
+"Usa canudo?",simple,"[""Sim"", ""Não""]",false,true,5c79c52e-7509-44d8-86f2-ed013d6678be
+"Usa eletrônicos por mais de duas horas ininterruptas?",simple,"[""Sim"", ""Não""]",false,true,90d21d07-bfe3-4a21-b585-a9fe9af100f7
+"Usa fraldas atualmente?",simple,"[""Sim"", ""Não""]",false,true,6abde216-05b8-4399-9c82-9b6243637d7f
+"Usou chupeta?",simple,"[""Sim"", ""Não""]",false,true,5c79c52e-7509-44d8-86f2-ed013d6678be
+"Usou cigarro na gravidez ? (mesmo que esporádico)",simple,"[""Sim"", ""Não""]",false,true,dbd5b5c9-184b-4681-8563-8d1347ba0eaf
+"Usou outras drogas na gravidez? (mesmo que esporádico)",simple,"[""Sim"", ""Não""]",false,true,dbd5b5c9-184b-4681-8563-8d1347ba0eaf
+"Usou álcool na gravidez? (mesmo que esporádico)",simple,"[""Sim"", ""Não""]",false,true,dbd5b5c9-184b-4681-8563-8d1347ba0eaf
+"numero",numeric,"[]",false,true,f8e0f9c8-1530-42ff-b7f1-ec5fa550649a
+"opção multipla",multiple,"[A, B, C]",false,true,f8e0f9c8-1530-42ff-b7f1-ec5fa550649a
+"texto",text,"[]",false,true,f8e0f9c8-1530-42ff-b7f1-ec5fa550649a
+"É Medroso(a)?",simple,"[""Sim"", ""Não""]",false,true,90d21d07-bfe3-4a21-b585-a9fe9af100f7
+"É atraído por alimentos de determinada cor?",simple,"[""Sim"", ""Não""]",false,true,90861630-c3f7-4915-af91-5718e032d49d
+"É inseguro(a)?",simple,"[""Sim"", ""Não""]",false,true,90d21d07-bfe3-4a21-b585-a9fe9af100f7
+"É irritado(a)?",simple,"[""Sim"", ""Não""]",false,true,90d21d07-bfe3-4a21-b585-a9fe9af100f7
+"É seletivo na escolha da alimentação?",simple,"[""Sim"", ""Não""]",false,true,90861630-c3f7-4915-af91-5718e032d49d
+"É uma criança de musculatura flácida?",simple,"[""Sim"", ""Não""]",false,true,6abde216-05b8-4399-9c82-9b6243637d7f
