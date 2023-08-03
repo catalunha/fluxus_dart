@@ -1,0 +1,18 @@
+id,name,nickname,email,phone,cpf,address,cep,is_female,birthday
+ea2ccaf8-806d-4ff8-b4cd-8d81c7eda813,"Tatianne Umbelina Dourado","Tatianne","","33984616732","05831166635","Rua Antonia Pereira Campos 296 Parque Ibituruna 35044760 Gv","null",false,1984-03-22 00:00:00
+fd21e15c-0cff-43b0-8148-e9318395c322,"Melissa Fonseca De Oliveira","Melissa","","33984150075","16822777636","Rua Argentina 153 Centro Frei Inocencio 35112000","null",false,2018-02-12 23:00:00
+22c959c3-1f9f-4ac7-904d-6f5a145949f8,"Paulo Henrique Prates Borges","Paulo","","33998435204","11275886647","Rua Manoel Cordeiro Da Silva 602 Apto 102 Morada Do Vale 35057510 Gv","null",false,1994-09-15 00:00:00
+741e4204-eeb2-4f16-acbd-1de5cb9409df,"Michel Santos Perpetuo","Michel","","33999662366","05518756666","Rua 9 N 37 Jardim America 39740000","null",false,1981-08-03 00:00:00
+0fdd9826-718f-4539-8a84-03fc6f223bb1,"Theo Matos Batista","Theo","","33999603161","18438524621","Rua 16 Nm 70 Vila Do Sol2 35042801 Gv","null",false,2020-05-30 00:00:00
+179ee307-0082-4c44-a368-118d0dfcd242,"Daniel Costa Ferreira","Daniel","","33999724478","15647081606","Rua L 84 Vale Verde 35059620 Gv","null",false,2016-06-14 00:00:00
+d4602b64-c19f-40ce-874e-e39515c770dc,"Fabiana Alves Da Silva","Fabiana","","33991800322","06618117607","Rua Campos Sales 2040 Santa Rita 35040090 Gv","null",false,1983-10-02 00:00:00
+71ff17c2-0c30-44b1-b3c5-a00f9646f1b2,"Everson Marcelo Alves Silva","Everson","","33991800322","13140443625","Rua Campos Sales Santa Rita 35040090","null",false,2006-02-19 00:00:00
+58f5aa4f-0ba7-45df-8a4a-02b18967cef7,"Endrewson Marcelo Alves Silva","Endrewson","","33991800322","13140486600","Rua Campos Sales 2040 Santa Rita 35040090","null",false,2002-04-05 00:00:00
+9f8f6172-b229-47ef-9f3a-6d7eef8430d2,"Rosimeire Bastos Caldeira","Rosimeire","","33987197152","83393110691","Rua Geraldo Coelho De Magalhaes 80 Park Da Fraternidade 35050700 Gv","null",false,1965-04-03 00:00:00
+bde717e4-10b1-4f0a-84e9-05d3fc4bf571,"Isaac Domiciano Bicalho","Isaac","","33998722557","70207326665","Rua Mato Grosso 504 Lourdes 35032300","null",false,2015-12-13 23:00:00
+82604a2a-1141-410d-b370-99eeef267e80,"Ivone Costa Medeiros De Almeida","Ivone","","33988739850","73444766653","Rua Serra Negra 76 Parque Ibituruna 35044370","null",false,1972-01-26 00:00:00
+8d4cdff4-e19b-49d4-a147-a6f852834fd3,"Gabriela De Farias Lopes Nazare","Gabriela","","33988517615","11081063661","Rua Geraldino Barbosa 1710 Bloco B2 Apto 204 Vila Isa 35041 0 Gv","null",false,2008-01-14 23:00:00
+e36a85e8-09bc-4cf8-9dd0-81da3c8ffa65,"Matheus Gomes Dos Santos","Matheus","","3399629492","14751723626","Rua Maria Cecilia 33 Bairro Sao Paulo 35030350 Gv","null",false,2004-02-16 00:00:00
+9ef767ee-37cb-4fe9-9ff7-6564ad78a26f,"Sophia Temponi Silveira","Sophia","","33988172553","14696362639","Rua Caio Martins 532 Apto 201 Centro 35010080","null",false,2006-10-04 00:00:00
+fe62dc1c-ded4-4382-b361-522246d2c442,"Divino Clementino Da Silva","Divino","","33984042174","29134153691","Rua Padre Joao Pinho De Amaral 70 Centro Engenheiro Caldas 35130000","null",false,1956-04-19 00:00:00
+51b637f3-9c5c-4ae9-a116-702e752bc4c6,"Cleonice De Oliveira Silva","Cleonice","","339840432174","92602509604","Rua Padre Joao Pinho De Amaral 70 Centro Engenheiro Caldas 35130000","null",false,1969-01-21 00:00:00

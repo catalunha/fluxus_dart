@@ -1,7 +1,7 @@
 import 'dart:io';
 
 import 'package:fluxus_dart/init_b4a.dart';
-import 'package:fluxus_dart/supabase/migrate_anamnese_question.dart';
+import 'package:fluxus_dart/supabase/migrate_patient.dart';
 
 void main(List<String> arguments) async {
   // final isInitialized = await initB4AFluxus();
@@ -24,7 +24,7 @@ void main(List<String> arguments) async {
   // await patientHealthPlanAction01();
   // await therapyAction01();
   // overbook();
-  // migratePatient();
+  migratePatient();
   // migrateProcedure();
-  migrateAnamneseQuestion();
+  // migrateAnamneseQuestion();
 }

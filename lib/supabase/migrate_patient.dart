@@ -11,6 +11,8 @@ import '../utils/pagination.dart';
 void migratePatient() async {
   print('+++ migratePatient');
   List<PatientModel> list = await getAll();
+  print('process...list: ${list.length}');
+
   var patientFile = File('data/patient.txt').openWrite(mode: FileMode.write);
   patientFile.writeln(
       'id,name,nickname,email,phone,cpf,address,cep,is_female,birthday');
@@ -70,6 +72,7 @@ Future<List<PatientModel>> getAll() async {
 
   QueryBuilder<ParseObject> query =
       QueryBuilder<ParseObject>(ParseObject(PatientEntity.className));
+  query.whereGreaterThan('createdAt', DateTime(2023, 07, 22));
   query.setLimit(500);
 
   return await list(query, cols: cols);
